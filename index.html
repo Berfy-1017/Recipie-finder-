@@ -15,7 +15,7 @@
       color: #0f172a;
     }
     h1 {
-      font-family: 'Pacifico', cursive; /* 👈 Title in cursive */
+      font-family: 'Pacifico', cursive;
     }
     button.gradient-btn {
       background: linear-gradient(90deg, #3b82f6, #6366f1);
@@ -99,6 +99,7 @@
         <input id="date-bought" type="date" />
         <button id="btn-add-ingredient" class="gradient-btn w-44">Add Ingredient</button>
       </div>
+      <ul id="live-ingredient-list" class="mt-6 bg-white rounded-lg shadow-md p-4 max-h-64 overflow-auto text-left space-y-2"></ul>
       <div class="mt-10 flex justify-center gap-6">
         <button id="btn-page2-home" class="gradient-btn px-8">Home</button>
         <button id="btn-page2-next" class="gradient-btn px-8">Next →</button>
@@ -135,12 +136,20 @@
       <h2 id="recipe-title" class="text-3xl font-bold mb-4"></h2>
       <img id="recipe-image" class="mx-auto rounded-xl mb-4 w-96 h-80 object-cover" />
       <div id="penguin-reaction" class="text-6xl mb-6">🐧</div>
+      
       <h3 class="font-semibold text-xl mb-2">Instructions:</h3>
-      <textarea id="instructions" readonly rows="8" class="mb-6"></textarea>
+      <textarea id="instructions" readonly rows="8" class="mb-4"></textarea>
+      <button id="btn-copy-instructions" class="gradient-btn w-52 mb-6">📋 Copy Instructions</button>
+      
+      <h3 class="font-semibold text-xl mb-2">Matched Ingredients:</h3>
+      <ul id="matched-ingredients" class="mb-6 list-disc list-inside text-left"></ul>
+      
       <h3 class="font-semibold text-xl mb-2">Missing Ingredients:</h3>
       <ul id="missing-ingredients" class="mb-6 list-disc list-inside text-left"></ul>
-      <div class="flex justify-center gap-6">
-        <button id="btn-recipe-back" class="gradient-btn px-8">← Back</button>
+      
+      <div class="flex justify-center gap-6 mt-8">
+        <button id="btn-recipe-back" class="gradient-btn px-8">← Back to Recipes</button>
+        <button id="btn-recipe-try-another" class="gradient-btn px-8">🔄 Try Another Recipe</button>
       </div>
     </section>
   </main>
@@ -166,10 +175,13 @@
       const btnPage4Back = document.getElementById('btn-page4-back');
       const btnPage4Home = document.getElementById('btn-page4-home');
       const btnRecipeBack = document.getElementById('btn-recipe-back');
+      const btnRecipeTryAnother = document.getElementById('btn-recipe-try-another');
+      const btnCopyInstructions = document.getElementById('btn-copy-instructions');
 
       const singleIngredientInput = document.getElementById('single-ingredient');
       const dateBoughtInput = document.getElementById('date-bought');
       const btnAddIngredient = document.getElementById('btn-add-ingredient');
+      const liveIngredientList = document.getElementById('live-ingredient-list');
 
       const ingredientsList = document.getElementById('ingredients-list');
       const penguinMood = document.getElementById('penguin-mood');
@@ -179,6 +191,7 @@
       const recipeImage = document.getElementById('recipe-image');
       const instructionsArea = document.getElementById('instructions');
       const missingIngredientsList = document.getElementById('missing-ingredients');
+      const matchedIngredientsList = document.getElementById('matched-ingredients');
       const penguinReaction = document.getElementById('penguin-reaction');
 
       function showPage(num) {
@@ -191,7 +204,8 @@
       // navigation
       btnGetStarted.onclick = () => showPage(2);
       btnPage2Home.onclick = () => {
-        ingredients = [];              // 🔹 reset ingredients
+        ingredients = [];
+        liveIngredientList.innerHTML = '';
         ingredientsList.innerHTML = ''; 
         penguinMood.textContent = '🐧';
         showPage(1);
@@ -201,12 +215,21 @@
       btnPage3Next.onclick = () => showPage(4);
       btnPage4Back.onclick = () => showPage(3);
       btnPage4Home.onclick = () => {
-        ingredients = [];              // 🔹 reset ingredients
+        ingredients = [];
+        liveIngredientList.innerHTML = '';
         ingredientsList.innerHTML = ''; 
         penguinMood.textContent = '🐧';
         showPage(1);
       };
       btnRecipeBack.onclick = () => showPage(4);
+      btnRecipeTryAnother.onclick = () => showPage(4);
+
+      // copy instructions
+      btnCopyInstructions.onclick = () => {
+        navigator.clipboard.writeText(instructionsArea.value)
+          .then(() => alert("Instructions copied to clipboard!"))
+          .catch(() => alert("Failed to copy."));
+      };
 
       // add ingredient
       btnAddIngredient.onclick = () => {
@@ -218,7 +241,21 @@
         }
         singleIngredientInput.value = '';
         dateBoughtInput.value = '';
+        renderLiveList();
       };
+
+      function renderLiveList() {
+        liveIngredientList.innerHTML = '';
+        if (ingredients.length === 0) {
+          liveIngredientList.innerHTML = `<li class="text-gray-600">No ingredients added yet.</li>`;
+          return;
+        }
+        ingredients.forEach(i => {
+          const li = document.createElement('li');
+          li.textContent = i.name;
+          liveIngredientList.appendChild(li);
+        });
+      }
 
       // freshness
       function freshnessStatus(dateBought) {
@@ -249,9 +286,8 @@
         ingredients.forEach(({ name, dateBought }) => {
           const status = freshnessStatus(dateBought);
           if (status !== 'unknown') counts[status]++;
-          const dateStr = dateBought ? dateBought.toISOString().slice(0,10) : 'N/A';
           const li = document.createElement('li');
-          li.textContent = `${name} – ${freshnessEmoji(status)} (Bought: ${dateStr})`;
+          li.textContent = `${name} – ${freshnessEmoji(status)}`;
           ingredientsList.appendChild(li);
         });
         let mood = '🐧';
@@ -272,28 +308,20 @@
             let allMeals = data.recipes;
             const userIngredients = ingredients.map(i => i.name.toLowerCase());
 
-            // filter recipes that have at least one matching ingredient
             allMeals = allMeals.filter(meal =>
               meal.ingredients.some(ing => userIngredients.includes(ing.toLowerCase()))
             );
 
-            // ✅ sort recipes: first-ingredient match first, then number of matches
             allMeals.sort((a, b) => {
               const aFirst = a.ingredients[0]?.toLowerCase();
               const bFirst = b.ingredients[0]?.toLowerCase();
-
               const aFirstMatch = userIngredients.includes(aFirst);
               const bFirstMatch = userIngredients.includes(bFirst);
-
-              // Rule 1: First ingredient match
               if (aFirstMatch && !bFirstMatch) return -1;
               if (!aFirstMatch && bFirstMatch) return 1;
-
-              // Rule 2: Number of total matches
               const aMatches = a.ingredients.filter(ing => userIngredients.includes(ing.toLowerCase())).length;
               const bMatches = b.ingredients.filter(ing => userIngredients.includes(ing.toLowerCase())).length;
-
-              return bMatches - aMatches; // more matches first
+              return bMatches - aMatches;
             });
 
             thinkingLoader.classList.add('hidden');
@@ -328,15 +356,25 @@
         recipeImage.src = meal.thumb || "penguin-cooking.gif";
         instructionsArea.value = meal.instructions || 'No instructions available.';
         missingIngredientsList.innerHTML = '';
+        matchedIngredientsList.innerHTML = '';
         penguinReaction.textContent = '🐧';
         showPage(5);
         selectedRecipe = meal;
 
         const recipeIngredients = meal.ingredients.map(i => i.toLowerCase());
         const userIngredients = ingredients.map(i => i.name.toLowerCase());
+
+        const matched = recipeIngredients.filter(ri => userIngredients.includes(ri));
         const missing = recipeIngredients.filter(ri => !userIngredients.includes(ri));
+
+        matched.forEach(m => {
+          const li = document.createElement('li');
+          li.textContent = m;
+          matchedIngredientsList.appendChild(li);
+        });
+
         if (missing.length === 0) {
-          missingIngredientsList.innerHTML = `<li>None — you have all the ingredients!</li>`;
+          missingIngredientsList.innerHTML = `<li>None 🎉</li>`;
           penguinReaction.textContent = '🎉';
         } else {
           missing.forEach(m => {
@@ -344,7 +382,7 @@
             li.textContent = m;
             missingIngredientsList.appendChild(li);
           });
-          penguinReaction.textContent = '😅';
+          penguinReaction.textContent = '🤔';
         }
       }
     })();
