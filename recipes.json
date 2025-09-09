@@ -3065,6 +3065,36 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Veg_Pulao.jpg",
     "thumb": "",
     "source": ""
-  }
+  },{
+  "id": "TND003",
+  "title": "Poori",
+  "area": "Tamil Nadu",
+  "category": "Main",
+  "ingredients": [
+    "wheat flour",
+    "salt",
+    "water",
+    "oil"
+  ],
+  "instructions": "1. In a bowl, mix wheat flour and salt.\n2. Add water gradually and knead into a stiff dough.\n3. Cover and rest the dough for 15–20 minutes.\n4. Divide into small balls and roll out into small discs.\n5. Heat oil in a deep kadai until hot.\n6. Slide each disc into hot oil.\n7. Press gently with a ladle until it puffs up.\n8. Flip and fry both sides until golden.\n9. Drain on paper towels.\n10. Serve hot with potato masala or curry.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Poori.jpg",
+  "source": ""
+},
+{
+  "id": "TND004",
+  "title": "Chapathi",
+  "area": "Tamil Nadu",
+  "category": "Main",
+  "ingredients": [
+    "wheat flour",
+    "salt",
+    "water",
+    "oil"
+  ],
+  "instructions": "1. In a bowl, mix wheat flour and salt.\n2. Add water gradually and knead into a soft, smooth dough.\n3. Cover and rest the dough for 20–30 minutes.\n4. Divide into equal-sized balls.\n5. Roll each ball into a thin round disc using a rolling pin.\n6. Heat a tawa/griddle until hot.\n7. Place rolled chapathi on the tawa and cook until brown spots appear.\n8. Flip and cook the other side similarly.\n9. Optionally apply ghee or oil while cooking.\n10. Serve hot with curry or sabzi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chapathi.jpg",
+  "source": ""
+}
+
   ]
 }
