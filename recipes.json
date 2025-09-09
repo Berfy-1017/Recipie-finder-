@@ -392,13 +392,13 @@
 },
 {
   "id": "TND025",
-  "title": "Vatha curry",
+  "title": "Vatha kolambu",
   "area": "Tamil Nadu",
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
     "tamarind ",
-    "vathal",
+    "dried red chilli",
     "red chilli powder",
     "fenugreek seeds",
     "curry leaves",
@@ -406,7 +406,7 @@
     "salt",
     "oil"
   ],
-  "instructions": "1. Soak tamarind in water and extract pulp.\n2. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves.\n3. Add vathal (dried berries) and sauté briefly.\n4. Add tamarind juice, red chilli powder, and salt; simmer until thickened.\n5. Serve hot with steamed rice.",
+  "instructions": "1. Soak tamarind in water and extract pulp.\n2. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves.\n3. Add dried red chilli (dried berries) and sauté briefly.\n4. Add tamarind juice, red chilli powder, and salt; simmer until thickened.\n5. Serve hot with steamed rice.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vatha_curry.jpg",
   "thumb": "",
   "source": ""
@@ -3065,7 +3065,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Veg_Pulao.jpg",
     "thumb": "",
     "source": ""
-  },{
+  },
+  {
   "id": "TND003",
   "title": "Poori",
   "area": "Tamil Nadu",
