@@ -172,28 +172,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Puttu_with_kadala_curry.JPG",
       "source": ""
     },
-    {
-  "id": "TND011",
-  "title": "Ven Pongal",
-  "area": "Tamil Nadu",
-  "category": "Main",
-  "type": "Vegetarian",
-  "ingredients": [
-    "rice",
-    "moong dal (split yellow gram)",
-    "ginger",
-    "black pepper",
-    "cumin seeds",
-    "ghee",
-    "curry leaves",
-    "cashews",
-    "salt"
-  ],
-  "instructions": "1. Wash and cook rice and moong dal together until soft. 2. Heat ghee in a pan, add cumin seeds, black pepper, ginger, curry leaves, and cashews; sauté until aromatic. 3. Mix the cooked rice-dal mixture with the tempered spices. 4. Adjust salt, simmer for 2–3 minutes, and serve hot with coconut chutney or sambar.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ven_Pongal.jpg",
-  "thumb": "",
-  "source": ""
-},
 {
   "id": "TND012",
   "title": "Nei Appam",
@@ -261,7 +239,7 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "vegetables (beans, cabbage, carrot, or beetroot)",
+    "beans", " cabbage" , " carrot","beetroot",
     "mustard seeds",
     "urad dal",
     "curry leaves",
@@ -275,28 +253,7 @@
   "thumb": "",
   "source": ""
 },
-{
-  "id": "TND016",
-  "title": "Kuzhambu",
-  "area": "Tamil Nadu",
-  "category": "Main",
-  "type": "Vegetarian",
-  "ingredients": [
-    "tamarind pulp",
-    "vegetables (like okra, drumstick, or eggplant)",
-    "chili powder",
-    "turmeric",
-    "fenugreek seeds",
-    "curry leaves",
-    "mustard seeds",
-    "salt",
-    "oil"
-  ],
-  "instructions": "1. Soak tamarind in water and extract juice. 2. Cook vegetables until tender. 3. Add tamarind juice, chili powder, turmeric, fenugreek, and salt; simmer for 10–15 minutes. 4. Heat oil, temper mustard seeds and curry leaves, pour over curry. 5. Serve hot with steamed rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kuzhambu.jpg",
-  "thumb": "",
-  "source": ""
-},
+
 {
   "id": "TND017",
   "title": "Brinjal Kuzhambu",
@@ -391,27 +348,7 @@
   "thumb": "",
   "source": ""
 },
-{
-  "id": "TND021",
-  "title": "Meen Kuzhambu",
-  "area": "Tamil Nadu",
-  "category": "Main",
-  "type": "Non-Vegetarian",
-  "ingredients": [
-    "fish",
-    "tamarind pulp",
-    "red chili powder",
-    "turmeric",
-    "fenugreek seeds",
-    "curry leaves",
-    "salt",
-    "oil"
-  ],
-  "instructions": "1. Clean fish and keep aside. 2. Soak tamarind in water and extract pulp. 3. Heat oil, add fenugreek seeds and curry leaves. 4. Add tamarind juice, chili powder, turmeric, and salt; boil. 5. Add fish and simmer until cooked. Serve with rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Meen_Kuzhambu.jpg",
-  "thumb": "",
-  "source": ""
-},
+
 {
   "id": "TND022",
   "title": "Varuval",
@@ -461,7 +398,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "yogurt",
+    "curd",
     "tamarind",
     "green chilies",
     "curry leaves",
@@ -482,7 +419,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "tamarind pulp",
+    "tamarind ",
     "dried berries (vathal)",
     "red chili powder",
     "fenugreek seeds",
@@ -497,7 +434,7 @@
   "source": ""
 },{
   "id": "TND026",
-  "title": "Ellu Sadam",
+  "title": "Ellu(sesame) Sadam",
   "area": "Tamil Nadu",
   "category": "Main",
   "type": "Vegetarian",
@@ -524,7 +461,7 @@
   "type": "Vegetarian",
   "ingredients": [
     "rice",
-    "lemon juice",
+    "lemon",
     "green chilies",
     "curry leaves",
     "mustard seeds",
@@ -545,7 +482,7 @@
   "type": "Vegetarian",
   "ingredients": [
     "rice",
-    "tamarind pulp",
+    "tamarind",
     "green chilies",
     "curry leaves",
     "mustard seeds",
@@ -567,7 +504,7 @@
   "type": "Vegetarian",
   "ingredients": [
     "rice",
-    "grated coconut",
+    "coconut",
     "mustard seeds",
     "green chilies",
     "curry leaves",
@@ -588,7 +525,7 @@
   "type": "Vegetarian",
   "ingredients": [
     "rice",
-    "yogurt (curd)",
+    "curd",
     "green chilies",
     "curry leaves",
     "mustard seeds",
@@ -610,7 +547,7 @@
   "ingredients": [
     "rice",
     "milk",
-    "ripe banana",
+    "banana",
     "jaggery",
     "cardamom powder",
     "ghee",
@@ -623,34 +560,13 @@
   "source": ""
 },
 {
-  "id": "TND032",
-  "title": "Kesari",
-  "area": "Tamil Nadu",
-  "category": "Main",
-  "type": "Vegetarian",
-  "ingredients": [
-    "semolina (rava)",
-    "ghee",
-    "sugar",
-    "water",
-    "cardamom powder",
-    "saffron",
-    "cashews",
-    "raisins"
-  ],
-  "instructions": "1. Roast semolina lightly in ghee. 2. Boil water with sugar, saffron, and cardamom powder. 3. Pour boiling syrup into roasted semolina, stirring continuously to avoid lumps. 4. Add fried cashews and raisins. 5. Serve warm.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kesari.jpg",
-  "thumb": "",
-  "source": ""
-},
-{
   "id": "TND033",
   "title": "Rava Kesari",
   "area": "Tamil Nadu",
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "semolina (rava)",
+    "rava",
     "ghee",
     "sugar",
     "water",
@@ -658,7 +574,7 @@
     "cashews",
     "raisins"
   ],
-  "instructions": "1. Roast semolina lightly in ghee. 2. Boil water with sugar and cardamom powder. 3. Pour syrup into roasted semolina gradually, stirring continuously. 4. Add fried cashews and raisins. 5. Serve warm as a snack or dessert.",
+  "instructions": "1. Roast semolina(rava) lightly in ghee. 2. Boil water with sugar and cardamom powder. 3. Pour syrup into roasted semolina gradually, stirring continuously. 4. Add fried cashews and raisins. 5. Serve warm as a snack or dessert.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Rava_Kesari.jpg",
   "thumb": "",
   "source": ""
@@ -670,7 +586,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "rice and urad dal batter",
+    "batter",
     "onion",
     "tomato",
     "green chilies",
@@ -691,7 +607,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "flattened rice (aval)",
+    "aval",
     "onion",
     "green chilies",
     "grated coconut",
@@ -701,7 +617,7 @@
     "salt",
     "oil"
   ],
-  "instructions": "1. Roast flattened rice lightly. 2. Heat oil, add mustard seeds, curry leaves, chopped onions, green chilies, and ginger; sauté until aromatic. 3. Add tamarind pulp and cook briefly. 4. Mix in roasted flattened rice and salt; cook for 2-3 minutes. 5. Serve warm.",
+  "instructions": "1. Roast flattened rice lightly(aval). 2. Heat oil, add mustard seeds, curry leaves, chopped onions, green chilies, and ginger; sauté until aromatic. 3. Add tamarind pulp and cook briefly. 4. Mix in roasted flattened rice and salt; cook for 2-3 minutes. 5. Serve warm.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Aval_Upma.jpg",
   "thumb": "",
   "source": ""
@@ -733,15 +649,15 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "ripe banana",
-    "all-purpose flour",
+    "banana",
+    "Maida",
     "rice flour",
     "turmeric",
     "salt",
     "oil",
     "sugar (optional)"
   ],
-  "instructions": "1. Slice ripe bananas. 2. Prepare batter with all-purpose flour, rice flour, turmeric, and salt. 3. Dip banana slices in batter and deep fry until golden brown. 4. Drain excess oil. 5. Sprinkle sugar optionally and serve warm.",
+  "instructions": "1. Slice ripe bananas. 2. Prepare batter with all-purpose flour(maida), rice flour, turmeric, and salt. 3. Dip banana slices in batter and deep fry until golden brown. 4. Drain excess oil. 5. Sprinkle sugar optionally and serve warm.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pazham_Pori.jpg",
   "thumb": "",
   "source": ""
@@ -790,8 +706,7 @@
   "category": "Main",
   "type": "Non-Vegetarian",
   "ingredients": [
-    "basmati rice",
-    "chicken",
+    "chicken","basmati rice",
     "onions",
     "tomatoes",
     "ginger-garlic paste",
