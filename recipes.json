@@ -6,12 +6,12 @@
       "area": "Tamil Nadu",
       "category": "Main",
       "ingredients": [
-        "idli rice – 2 cups",
-        "urad dal – 1 cup",
-        "fenugreek seeds – ½ tsp",
-        "salt – to taste",
-        "water – as needed",
-        "oil – for greasing"
+        "idli rice",
+        "urad dal","batter",
+        "fenugreek seeds",
+        "salt",
+        "water",
+        "oil"
       ],
       "instructions": "1. Rinse idli rice and urad dal separately, soak with fenugreek seeds for 6 hours. 2. Grind urad dal into a fluffy batter and rice into a slightly coarse paste. 3. Combine both batters with salt, ferment overnight or 8–10 hours. 4. Grease idli plates lightly with oil. 5. Stir the batter gently and pour into moulds ¾ full. 6. Steam in an idli cooker or pressure cooker without weight for 10–12 minutes. 7. Insert a toothpick to check doneness—it should come out clean. 8. Rest for 2 minutes before scooping idlis out with a spoon. 9. Serve hot with coconut chutney and sambar. 10. Optionally drizzle ghee or garnish with grated coconut.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Idli_Sambar.JPG",
@@ -23,15 +23,15 @@
       "area": "Tamil Nadu",
       "category": "Main",
       "ingredients": [
-        "urad dal – 1 cup",
-        "green chili – 2, finely chopped",
-        "ginger – 1 inch, grated",
-        "curry leaves – few, chopped",
-        "black pepper – ½ tsp",
-        "salt – to taste",
-        "oil – for deep frying"
+        "urad dal",
+        "green chilli",
+        "ginger",
+        "curry leaves",
+        "black pepper",
+        "salt",
+        "oil"
       ],
-      "instructions": "1. Soak urad dal for 4–5 hours. 2. Grind into a thick fluffy batter using minimal water. 3. Mix in chopped ginger, green chili, curry leaves, pepper, and salt. 4. Wet hands, take a portion of batter, shape into a round patty with a hole in the center. 5. Heat oil in a deep kadai until medium hot. 6. Slide vadas gently into oil. 7. Fry on medium flame until golden on both sides. 8. Remove and drain on paper towels. 9. Serve hot with chutney or sambar. 10. Optionally soak in yogurt for thayir vadai.",
+      "instructions": "1. Soak urad dal for 4–5 hours. 2. Grind into a thick fluffy batter using minimal water. 3. Mix in chopped ginger, green chilli, curry leaves, pepper, and salt. 4. Wet hands, take a portion of batter, shape into a round patty with a hole in the center. 5. Heat oil in a deep kadai until medium hot. 6. Slide vadas gently into oil. 7. Fry on medium flame until golden on both sides. 8. Remove and drain on paper towels. 9. Serve hot with chutney or sambar. 10. Optionally soak in curd for thayir vadai.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Medu_Vada.JPG",
       "source": ""
     },
@@ -41,21 +41,21 @@
       "area": "Tamil Nadu",
       "category": "Snack",
       "ingredients": [
-        "toor dal – 1 cup",
-        "tamarind – lemon-sized ball",
-        "onion – 1, chopped",
-        "tomato – 2, chopped",
-        "drumstick – 1, cut into pieces",
-        "sambar powder – 2 tbsp",
-        "turmeric – ½ tsp",
-        "salt – to taste",
-        "mustard seeds – 1 tsp",
-        "curry leaves – few",
-        "dried red chili – 2",
-        "oil – 2 tbsp",
-        "coriander leaves – handful"
+        "toor dal",
+        "tamarind ",
+        "onion",
+        "tomato ",
+        "drumstick",
+        "sambar powder",
+        "turmeric",
+        "salte",
+        "mustard seeds",
+        "curry leaves",
+        "dried red chilli ",
+        "oil ",
+        "coriander leaves"
       ],
-      "instructions": "1. Rinse toor dal and pressure cook with turmeric until soft. 2. Mash the cooked dal. 3. Soak tamarind in warm water, extract juice. 4. Heat oil in a pot, add mustard seeds, curry leaves, and red chilies. 5. Add onions, sauté until translucent. 6. Add tomatoes, cook until mushy. 7. Stir in sambar powder and salt. 8. Add drumstick pieces, cook 5 minutes. 9. Pour tamarind extract, bring to boil. 10. Add mashed dal, simmer 10 minutes, garnish with coriander.",
+      "instructions": "1. Rinse toor dal and pressure cook with turmeric until soft. 2. Mash the cooked dal. 3. Soak tamarind in warm water, extract juice. 4. Heat oil in a pot, add mustard seeds, curry leaves, and red chillies. 5. Add onions, sauté until translucent. 6. Add tomatoes, cook until mushy. 7. Stir in sambar powder and salt. 8. Add drumstick pieces, cook 5 minutes. 9. Pour tamarind extract, bring to boil. 10. Add mashed dal, simmer 10 minutes, garnish with coriander.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sambar_with_Idly.JPG",
       "source": ""
     },
@@ -65,18 +65,18 @@
       "area": "Tamil Nadu",
       "category": "Main",
       "ingredients": [
-        "tamarind – small lemon-sized ball",
-        "tomato – 2, chopped",
-        "rasam powder – 1 tbsp",
-        "turmeric – ¼ tsp",
-        "salt – to taste",
-        "toor dal – ¼ cup, cooked (optional)",
-        "mustard seeds – 1 tsp",
-        "urad dal – 1 tsp",
-        "garlic – 3 cloves, crushed",
-        "curry leaves – few",
-        "ghee – 1 tbsp",
-        "coriander leaves – handful"
+        "tamarind",
+        "tomato",
+        "rasam powder",
+        "turmeric",
+        "salt ",
+        "toor dal",
+        "mustard seeds ",
+        "urad dal ",
+        "garlic",
+        "curry leaves",
+        "ghee",
+        "coriander leaves"
       ],
       "instructions": "1. Soak tamarind in warm water and extract juice. 2. In a pot, add tamarind water, chopped tomatoes, turmeric, rasam powder, and salt. 3. Bring to boil until raw smell fades. 4. Stir in cooked dal (optional). 5. Adjust water for desired consistency. 6. Heat ghee in pan, add mustard seeds, urad dal, garlic, and curry leaves. 7. Let splutter and become aromatic. 8. Pour tempering over boiling rasam. 9. Garnish with coriander. 10. Serve hot with rice or drink as soup.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rasam_in_a_bowl.JPG",
@@ -88,12 +88,12 @@
       "area": "Tamil Nadu",
       "category": "Main",
       "ingredients": [
-        "raw rice – 2 cups",
-        "urad dal – 1 cup",
-        "fenugreek seeds – ½ tsp",
-        "salt – to taste",
-        "water – as needed",
-        "oil or ghee – for cooking"
+        "raw rice",
+        "urad dal","batter",
+        "fenugreek seeds",
+        "salt",
+        "water",
+        "oil", "ghee "
       ],
       "instructions": "1. Soak rice and urad dal separately for 6–8 hours with fenugreek seeds. 2. Grind urad dal to a fluffy batter, rice to coarse paste. 3. Mix, add salt, ferment overnight. 4. Heat dosa tawa, grease lightly. 5. Pour a ladleful batter, spread thin. 6. Drizzle oil along edges. 7. Cook underside until golden. 8. Flip for soft dosa or serve crisp. 9. Remove and serve hot. 10. Pair with chutney, sambar, or masala.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dosa_with_chutney_and_sambar.JPG",
@@ -105,15 +105,15 @@
       "area": "Tamil Nadu",
       "category": "Snack",
       "ingredients": [
-        "raw rice – 1 cup",
-        "moong dal – ½ cup",
-        "black pepper – 1 tsp, crushed",
-        "ginger – 1 inch, chopped",
-        "curry leaves – few",
-        "ghee – 3 tbsp",
-        "cashews – 10",
-        "salt – to taste",
-        "water – 4 cups"
+        "raw rice",
+        "moong dal",
+        "black pepper",
+        "ginger",
+        "curry leaves",
+        "ghee ",
+        "cashews ",
+        "salt ",
+        "water "
       ],
       "instructions": "1. Dry roast moong dal till aromatic. 2. Wash rice and dal together. 3. Pressure cook with 4 cups water, salt, turmeric until mushy. 4. Heat ghee in a pan, fry cashews till golden. 5. Add ginger, curry leaves, and crushed pepper. 6. Stir fry till aromatic. 7. Pour tempering into rice-dal mixture. 8. Mix well to creamy texture. 9. Add hot water if too thick. 10. Serve hot with coconut chutney.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ven_Pongal.JPG",
@@ -125,18 +125,18 @@
       "area": "Tamil Nadu",
       "category": "Main",
       "ingredients": [
-        "rava/semolina – 1 cup",
-        "onion – 1, chopped",
-        "green chili – 2, slit",
-        "ginger – 1 inch, chopped",
-        "curry leaves – few",
-        "mustard seeds – 1 tsp",
-        "urad dal – 1 tsp",
-        "oil – 2 tbsp",
-        "salt – to taste",
-        "water – 2½ cups"
+        "rava",
+        "onion",
+        "green chilli",
+        "ginger ",
+        "curry leaves",
+        "mustard seeds ",
+        "urad dal ",
+        "oil ",
+        "salt",
+        "water"
       ],
-      "instructions": "1. Dry roast rava till light golden. 2. Heat oil, add mustard seeds, splutter. 3. Add urad dal, curry leaves, ginger, green chilies. 4. Sauté onions till translucent. 5. Add water, salt, boil. 6. Slowly add roasted rava, stir continuously. 7. Cook till water absorbed. 8. Cover and steam 2 minutes. 9. Fluff with fork. 10. Serve hot with chutney or pickle.",
+      "instructions": "1. Dry roast rava till light golden. 2. Heat oil, add mustard seeds, splutter. 3. Add urad dal, curry leaves, ginger, green chillies. 4. Sauté onions till translucent. 5. Add water, salt, boil. 6. Slowly add roasted rava, stir continuously. 7. Cook till water absorbed. 8. Cover and steam 2 minutes. 9. Fluff with fork. 10. Serve hot with chutney or pickle.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rava_Upma.JPG",
       "source": ""
     },
@@ -146,14 +146,14 @@
       "area": "Tamil Nadu",
       "category": "Main",
       "ingredients": [
-        "idli/dosa batter – 2 cups",
-        "onion – 1, finely chopped",
-        "green chili – 2, chopped",
-        "curry leaves – few",
-        "mustard seeds – 1 tsp",
+        "batter",
+        "onion ",
+        "green chilli ",
+        "curry leaves ",
+        "mustard seeds ",
         "oil – 2 tbsp"
       ],
-      "instructions": "1. Heat oil in pan, add mustard seeds, splutter. 2. Add onions, green chili, curry leaves. 3. Sauté till onions soft. 4. Mix seasoning into batter. 5. Heat paniyaram pan, grease cavities. 6. Pour batter ¾ full. 7. Cook covered on medium till bottoms golden. 8. Flip with skewer. 9. Cook till crisp. 10. Serve with chutney.",
+      "instructions": "1. Heat oil in pan, add mustard seeds, splutter. 2. Add onions, green chilli, curry leaves. 3. Sauté till onions soft. 4. Mix seasoning into batter. 5. Heat paniyaram pan, grease cavities. 6. Pour batter ¾ full. 7. Cook covered on medium till bottoms golden. 8. Flip with skewer. 9. Cook till crisp. 10. Serve with chutney.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Kuzhi_paniyaram.JPG",
       "source": ""
     },
@@ -163,10 +163,10 @@
       "area": "Tamil Nadu",
       "category": "Snack",
       "ingredients": [
-        "puttu flour – 2 cups",
-        "grated coconut – 1 cup",
-        "salt – ½ tsp",
-        "water – as needed"
+        "puttu flour ",
+        "grated coconut ",
+        "salt ",
+        "water "
       ],
       "instructions": "1. Mix puttu flour with salt. 2. Sprinkle water, rub till moist crumbs form. 3. Test: press flour, it should hold then crumble. 4. Layer flour and grated coconut in puttu maker. 5. Start with coconut, then flour, repeat. 6. Steam for 8–10 minutes. 7. Push out puttu onto plate. 8. Serve with banana and sugar. 9. Pair with kadala curry. 10. Drizzle ghee if desired.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Puttu_with_kadala_curry.JPG",
@@ -186,7 +186,7 @@
     "ghee"
   ],
   "instructions": "1. Melt jaggery in a little water to make syrup. 2. Mix jaggery syrup with rice flour, grated coconut, and cardamom to form a thick batter. 3. Heat ghee in an appam pan, pour small portions of batter, and fry until golden brown on both sides. 4. Remove and drain excess ghee; serve warm.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nei_Appam.jpg",
+  "image": "",
   "thumb": "",
   "source": ""
 },
@@ -200,13 +200,13 @@
     "toor dal",
     "chana dal",
     "rice",
-    "red chilies",
+    "red chillies",
     "curry leaves",
     "ginger",
     "salt",
     "asafoetida"
   ],
-  "instructions": "1. Soak toor dal, chana dal, and rice for 3–4 hours. 2. Grind the soaked mixture coarsely with red chilies, ginger, and a pinch of salt. 3. Heat a tawa, pour a ladle of batter, and spread like a thick pancake. 4. Drizzle oil around edges and cook until golden on both sides. 5. Serve hot with chutney or jaggery.",
+  "instructions": "1. Soak toor dal, chana dal, and rice for 3–4 hours. 2. Grind the soaked mixture coarsely with red chillies, ginger, and a pinch of salt. 3. Heat a tawa, pour a ladle of batter, and spread like a thick pancake. 4. Drizzle oil around edges and cook until golden on both sides. 5. Serve hot with chutney or jaggery.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Adai.jpg",
   "thumb": "",
   "source": ""
@@ -218,16 +218,16 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "vegetables (snake gourd, beans, cabbage, or carrot)",
+    "snake gourd", "beans", "cabbage", "carrot",
     "moong dal",
     "coconut",
-    "green chilies",
+    "green chillies",
     "cumin seeds",
     "turmeric",
     "curry leaves",
     "salt"
   ],
-  "instructions": "1. Cook moong dal and chopped vegetables until soft. 2. Grind coconut, cumin, and green chilies into a smooth paste. 3. Add the paste to the cooked vegetables and dal, simmer for 5–10 minutes. 4. Heat a little oil, add mustard seeds and curry leaves, pour as tempering. 5. Mix well and serve with rice.",
+  "instructions": "1. Cook moong dal and chopped vegetables until soft. 2. Grind coconut, cumin, and green chillies into a smooth paste. 3. Add the paste to the cooked vegetables and dal, simmer for 5–10 minutes. 4. Heat a little oil, add mustard seeds and curry leaves, pour as tempering. 5. Mix well and serve with rice.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kootu.jpg",
   "thumb": "",
   "source": ""
@@ -244,11 +244,11 @@
     "urad dal",
     "curry leaves",
     "grated coconut",
-    "green chilies",
+    "green chillies",
     "salt",
     "oil"
   ],
-  "instructions": "1. Chop vegetables finely. 2. Heat oil in a pan, add mustard seeds and urad dal; sauté until golden. 3. Add green chilies and curry leaves. 4. Add vegetables and salt, cook covered until tender. 5. Mix in grated coconut, stir well, and serve.",
+  "instructions": "1. Chop vegetables finely. 2. Heat oil in a pan, add mustard seeds and urad dal; sauté until golden. 3. Add green chillies and curry leaves. 4. Add vegetables and salt, cook covered until tender. 5. Mix in grated coconut, stir well, and serve.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Poriyal.jpg",
   "thumb": "",
   "source": ""
@@ -256,14 +256,14 @@
 
 {
   "id": "TND017",
-  "title": "Brinjal Kuzhambu",
+  "title": "Brinjal curry",
   "area": "Tamil Nadu",
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "brinjals (eggplant)",
+    "brinjal",
     "tamarind pulp",
-    "chili powder",
+    "chilli powder",
     "turmeric",
     "fenugreek seeds",
     "curry leaves",
@@ -271,8 +271,8 @@
     "salt",
     "oil"
   ],
-  "instructions": "1. Chop brinjals and soak tamarind in water. 2. Heat oil, add mustard seeds and fenugreek seeds. 3. Add brinjals, curry leaves, chili powder, turmeric, and salt. 4. Pour tamarind juice, simmer until brinjals are soft and curry thickens. 5. Serve hot with rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brinjal_Kuzhambu.jpg",
+  "instructions": "1. Chop brinjals and soak tamarind in water. 2. Heat oil, add mustard seeds and fenugreek seeds. 3. Add brinjals, curry leaves, chilli powder, turmeric, and salt. 4. Pour tamarind juice, simmer until brinjals are soft and curry thickens. 5. Serve hot with rice.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brinjal_curry.jpg",
   "thumb": "",
   "source": ""
 },
@@ -289,7 +289,7 @@
     "ginger-garlic paste",
     "coriander powder",
     "cumin powder",
-    "red chili powder",
+    "red chilli powder",
     "turmeric",
     "curry leaves",
     "fennel seeds",
@@ -310,15 +310,15 @@
   "ingredients": [
     "chicken",
     "ginger-garlic paste",
-    "red chili powder",
-    "yogurt",
+    "red chilli powder",
+    "curd",
     "curry leaves",
-    "green chilies",
+    "green chillies",
     "cornflour",
     "salt",
     "oil"
   ],
-  "instructions": "1. Marinate chicken with yogurt, ginger-garlic paste, red chili powder, cornflour, and salt for 30 minutes. 2. Heat oil in a pan. 3. Deep fry marinated chicken until golden and crispy. 4. Fry curry leaves and green chilies in oil; add to chicken. 5. Serve hot as a snack or starter.",
+  "instructions": "1. Marinate chicken with curd, ginger-garlic paste, red chilli powder, cornflour, and salt for 30 minutes. 2. Heat oil in a pan. 3. Deep fry marinated chicken until golden and crispy. 4. Fry curry leaves and green chillies in oil; add to chicken. 5. Serve hot as a snack or starter.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chicken_65.jpg",
   "thumb": "",
   "source": ""
@@ -336,100 +336,78 @@
     "tomato",
     "ginger",
     "garlic",
-    "red chili powder",
+    "red chilli powder",
     "turmeric",
     "fenugreek seeds",
     "curry leaves",
     "salt",
     "oil"
   ],
-  "instructions": "1. Clean fish and cut into pieces. 2. Soak tamarind in water and extract juice. 3. Heat oil, sauté mustard seeds, fenugreek seeds, onions, ginger, and garlic. 4. Add tomatoes, tamarind juice, chili powder, turmeric, and salt; bring to a boil. 5. Add fish pieces and simmer until cooked. Serve with rice.",
+  "instructions": "1. Clean fish and cut into pieces. 2. Soak tamarind in water and extract juice. 3. Heat oil, sauté mustard seeds, fenugreek seeds, onions, ginger, and garlic. 4. Add tomatoes, tamarind juice, chilli powder, turmeric, and salt; bring to a boil. 5. Add fish pieces and simmer until cooked. Serve with rice.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fish_Curry.jpg",
-  "thumb": "",
-  "source": ""
-},
-
-{
-  "id": "TND022",
-  "title": "Varuval",
-  "area": "Tamil Nadu",
-  "category": "Main",
-  "type": "Non-Vegetarian",
-  "ingredients": [
-    "meat or chicken",
-    "red chili powder",
-    "turmeric",
-    "curry leaves",
-    "garlic",
-    "ginger",
-    "salt",
-    "oil"
-  ],
-  "instructions": "1. Marinate meat with chili powder, turmeric, ginger, garlic, and salt. 2. Heat oil in a pan and fry the marinated meat until cooked and dry. 3. Add curry leaves and sauté briefly. 4. Serve hot as a side dish or with rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Varuval.jpg",
   "thumb": "",
   "source": ""
 },
 {
   "id": "TND023",
-  "title": "Kara Kuzhambu",
+  "title": "Kara curry",
   "area": "Tamil Nadu",
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
     "tamarind pulp",
-    "vegetables (like drumstick, okra, or eggplant)",
-    "red chili powder",
+    "drumstick", "okra", "eggplant",
+    "red chilli powder",
     "fenugreek seeds",
     "curry leaves",
     "mustard seeds",
     "oil",
     "salt"
   ],
-  "instructions": "1. Soak tamarind in water and extract juice. 2. Cook vegetables until tender. 3. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves. 4. Add tamarind juice, chili powder, and salt; simmer for 10 minutes. 5. Pour tempering over curry and serve with rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kara_Kuzhambu.jpg",
+  "instructions": "1. Soak tamarind in water and extract juice. 2. Cook vegetables until tender. 3. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves. 4. Add tamarind juice, chilli powder, and salt; simmer for 10 minutes. 5. Pour tempering over curry and serve with rice.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kara_curry.jpg",
   "thumb": "",
   "source": ""
 },
 {
   "id": "TND024",
-  "title": "Mor Kuzhambu",
+  "title": "Mor curry",
   "area": "Tamil Nadu",
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
     "curd",
     "tamarind",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "cumin seeds",
     "fenugreek seeds",
     "salt",
     "water"
   ],
-  "instructions": "1. Soak tamarind in water and extract juice. 2. Whisk yogurt with water until smooth. 3. Mix yogurt with tamarind juice, cumin, fenugreek, green chilies, and salt; cook gently without boiling. 4. Temper with curry leaves in hot oil and pour over the curry. 5. Serve with steamed rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mor_Kuzhambu.jpg",
+  "instructions": "1. Soak tamarind in water and extract juice. 2. Whisk curd with water until smooth. 3. Mix curd with tamarind juice, cumin, fenugreek, green chillies, and salt; cook gently without boiling. 4. Temper with curry leaves in hot oil and pour over the curry. 5. Serve with steamed rice.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mor_curry.jpg",
   "thumb": "",
   "source": ""
 },
 {
   "id": "TND025",
-  "title": "Vatha Kuzhambu",
+  "title": "Vatha curry",
   "area": "Tamil Nadu",
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
     "tamarind ",
-    "dried berries (vathal)",
-    "red chili powder",
+    "vathal",
+    "red chilli powder",
     "fenugreek seeds",
     "curry leaves",
     "mustard seeds",
     "salt",
     "oil"
   ],
-  "instructions": "1. Soak tamarind in water and extract pulp. 2. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves. 3. Add vathal (dried berries) and sauté briefly. 4. Add tamarind juice, red chili powder, and salt; simmer until thickened. 5. Serve hot with steamed rice.",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vatha_Kuzhambu.jpg",
+  "instructions": "1. Soak tamarind in water and extract pulp. 2. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves. 3. Add vathal (dried berries) and sauté briefly. 4. Add tamarind juice, red chilli powder, and salt; simmer until thickened. 5. Serve hot with steamed rice.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vatha_curry.jpg",
   "thumb": "",
   "source": ""
 },{
@@ -440,15 +418,15 @@
   "type": "Vegetarian",
   "ingredients": [
     "rice",
-    "sesame seeds (ellu)",
-    "green chilies",
+    "sesame seeds","ellu",
+    "green chillies",
     "curry leaves",
     "mustard seeds",
     "urad dal",
     "salt",
     "oil"
   ],
-  "instructions": "1. Cook rice and let it cool slightly. 2. Heat oil in a pan, add mustard seeds, urad dal, green chilies, and curry leaves; sauté until aromatic. 3. Add roasted sesame seeds and salt. 4. Mix this tempering into the cooked rice evenly. 5. Serve warm as a main dish.",
+  "instructions": "1. Cook rice and let it cool slightly. 2. Heat oil in a pan, add mustard seeds, urad dal, green chillies, and curry leaves; sauté until aromatic. 3. Add roasted sesame seeds and salt. 4. Mix this tempering into the cooked rice evenly. 5. Serve warm as a main dish.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ellu_Sadam.jpg",
   "thumb": "",
   "source": ""
@@ -462,14 +440,14 @@
   "ingredients": [
     "rice",
     "lemon",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "mustard seeds",
     "urad dal",
     "salt",
     "oil"
   ],
-  "instructions": "1. Cook rice and allow it to cool. 2. Heat oil, add mustard seeds, urad dal, green chilies, and curry leaves; sauté until aromatic. 3. Pour this tempering over rice. 4. Add lemon juice and salt; mix gently. 5. Serve immediately as a snack or side dish.",
+  "instructions": "1. Cook rice and allow it to cool. 2. Heat oil, add mustard seeds, urad dal, green chillies, and curry leaves; sauté until aromatic. 3. Pour this tempering over rice. 4. Add lemon juice and salt; mix gently. 5. Serve immediately as a snack or side dish.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lemon_Rice.jpg",
   "thumb": "",
   "source": ""
@@ -483,7 +461,7 @@
   "ingredients": [
     "rice",
     "tamarind",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "mustard seeds",
     "urad dal",
@@ -491,7 +469,7 @@
     "salt",
     "oil"
   ],
-  "instructions": "1. Cook rice and keep aside. 2. Soak tamarind in water and extract pulp. 3. Heat oil, add mustard seeds, urad dal, curry leaves, green chilies, and turmeric. 4. Add tamarind pulp and salt; cook until it thickens. 5. Mix this tamarind mixture with rice and serve.",
+  "instructions": "1. Cook rice and keep aside. 2. Soak tamarind in water and extract pulp. 3. Heat oil, add mustard seeds, urad dal, curry leaves, green chillies, and turmeric. 4. Add tamarind pulp and salt; cook until it thickens. 5. Mix this tamarind mixture with rice and serve.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tamarind_Rice.jpg",
   "thumb": "",
   "source": ""
@@ -506,13 +484,13 @@
     "rice",
     "coconut",
     "mustard seeds",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "ginger",
     "salt",
     "oil"
   ],
-  "instructions": "1. Cook rice and keep aside. 2. Heat oil in a pan, add mustard seeds, green chilies, curry leaves, and grated ginger; sauté briefly. 3. Add grated coconut and roast lightly. 4. Mix the coconut mixture with rice evenly. 5. Serve warm.",
+  "instructions": "1. Cook rice and keep aside. 2. Heat oil in a pan, add mustard seeds, green chillies, curry leaves, and grated ginger; sauté briefly. 3. Add grated coconut and roast lightly. 4. Mix the coconut mixture with rice evenly. 5. Serve warm.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Coconut_Rice.jpg",
   "thumb": "",
   "source": ""
@@ -526,14 +504,14 @@
   "ingredients": [
     "rice",
     "curd",
-    "green chilies",
+    "green chilles",
     "curry leaves",
     "mustard seeds",
     "urad dal",
     "salt",
     "ginger"
   ],
-  "instructions": "1. Cook rice and allow it to cool slightly. 2. Mix yogurt with rice until smooth. 3. Heat oil, add mustard seeds, urad dal, curry leaves, green chilies, and grated ginger; sauté briefly. 4. Pour tempering over the rice-yogurt mixture. 5. Serve chilled or at room temperature.",
+  "instructions": "1. Cook rice and allow it to cool slightly. 2. Mix curd with rice until smooth. 3. Heat oil, add mustard seeds, urad dal, curry leaves, green chillies, and grated ginger; sauté briefly. 4. Pour tempering over the rice-curd mixture. 5. Serve chilled or at room temperature.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Curd_Rice.jpg",
   "thumb": "",
   "source": ""
@@ -589,13 +567,13 @@
     "batter",
     "onion",
     "tomato",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "grated coconut",
     "salt",
     "oil"
   ],
-  "instructions": "1. Prepare thick batter from soaked rice and urad dal. 2. Heat a tawa or skillet and pour a ladle of batter. 3. Spread batter slightly thick, top with chopped onions, tomato, green chilies, curry leaves, and grated coconut. 4. Drizzle oil around edges and cook until golden brown on both sides. 5. Serve hot with chutney or sambar.",
+  "instructions": "1. Prepare thick batter from soaked rice and urad dal. 2. Heat a tawa or skillet and pour a ladle of batter. 3. Spread batter slightly thick, top with chopped onions, tomato, green chillies, curry leaves, and grated coconut. 4. Drizzle oil around edges and cook until golden brown on both sides. 5. Serve hot with chutney or sambar.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Oothappam.jpg",
   "thumb": "",
   "source": ""
@@ -609,7 +587,7 @@
   "ingredients": [
     "aval",
     "onion",
-    "green chilies",
+    "green chillies",
     "grated coconut",
     "curry leaves",
     "ginger",
@@ -617,7 +595,7 @@
     "salt",
     "oil"
   ],
-  "instructions": "1. Roast flattened rice lightly(aval). 2. Heat oil, add mustard seeds, curry leaves, chopped onions, green chilies, and ginger; sauté until aromatic. 3. Add tamarind pulp and cook briefly. 4. Mix in roasted flattened rice and salt; cook for 2-3 minutes. 5. Serve warm.",
+  "instructions": "1. Roast flattened rice lightly(aval). 2. Heat oil, add mustard seeds, curry leaves, chopped onions, green chillies, and ginger; sauté until aromatic. 3. Add tamarind pulp and cook briefly. 4. Mix in roasted flattened rice and salt; cook for 2-3 minutes. 5. Serve warm.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Aval_Upma.jpg",
   "thumb": "",
   "source": ""
@@ -655,9 +633,9 @@
     "turmeric",
     "salt",
     "oil",
-    "sugar (optional)"
+    "sugar"
   ],
-  "instructions": "1. Slice ripe bananas. 2. Prepare batter with all-purpose flour(maida), rice flour, turmeric, and salt. 3. Dip banana slices in batter and deep fry until golden brown. 4. Drain excess oil. 5. Sprinkle sugar optionally and serve warm.",
+  "instructions": "1. Slice ripe bananas. 2. Prepare batter with maida(maida), rice flour, turmeric, and salt. 3. Dip banana slices in batter and deep fry until golden brown. 4. Drain excess oil. 5. Sprinkle sugar optionally and serve warm.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pazham_Pori.jpg",
   "thumb": "",
   "source": ""
@@ -669,7 +647,7 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "gram flour (besan)",
+    "gram flour",
     "ghee",
     "sugar",
     "water"
@@ -710,15 +688,15 @@
     "onions",
     "tomatoes",
     "ginger-garlic paste",
-    "yogurt",
-    "green chilies",
+    "curd",
+    "green chillies",
     "biryani masala",
     "mint leaves",
     "coriander leaves",
     "salt",
     "oil"
   ],
-  "instructions": "1. Marinate chicken with yogurt, ginger-garlic paste, and biryani masala for 1–2 hours. 2. Fry sliced onions until golden brown. 3. Cook rice until 70% done. 4. Layer chicken, rice, fried onions, mint, and coriander in a pot; cover and cook on low heat (dum) for 20–25 minutes. 5. Serve hot with raita.",
+  "instructions": "1. Marinate chicken with curd, ginger-garlic paste, and biryani masala for 1–2 hours. 2. Fry sliced onions until golden brown. 3. Cook rice until 70% done. 4. Layer chicken, rice, fried onions, mint, and coriander in a pot; cover and cook on low heat (dum) for 20–25 minutes. 5. Serve hot with raita.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ambur_Biryani.jpg",
   "thumb": "",
   "source": ""
@@ -731,18 +709,18 @@
   "type": "Non-Vegetarian",
   "ingredients": [
     "basmati rice",
-    "mutton or chicken",
+    "mutton", "chicken",
     "tamarind pulp",
     "coconut",
     "onion",
     "ginger-garlic paste",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "biryani masala",
     "salt",
     "oil"
   ],
-  "instructions": "1. Marinate meat with ginger-garlic paste, biryani masala, and salt. 2. Fry onions until golden, set aside. 3. Cook rice until partially done. 4. Heat oil, sauté curry leaves and green chilies; add tamarind pulp and coconut paste. 5. Layer meat, rice, and fried onions; cook on low heat (dum) until meat is tender. Serve hot.",
+  "instructions": "1. Marinate meat with ginger-garlic paste, biryani masala, and salt. 2. Fry onions until golden, set aside. 3. Cook rice until partially done. 4. Heat oil, sauté curry leaves and green chillies; add tamarind pulp and coconut paste. 5. Layer meat, rice, and fried onions; cook on low heat (dum) until meat is tender. Serve hot.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dindigul_Biryani.jpg",
   "thumb": "",
   "source": ""
@@ -755,17 +733,17 @@
   "type": "Non-Vegetarian",
   "ingredients": [
     "parotta",
-    "chicken or mutton",
+    "chicken","mutton",
     "onion",
     "tomato",
-    "green chilies",
+    "green chillies",
     "ginger-garlic paste",
     "curry leaves",
     "egg",
     "salt",
     "oil"
   ],
-  "instructions": "1. Shred parotta into small pieces. 2. Heat oil, sauté onions, tomatoes, green chilies, and curry leaves. 3. Add chicken or mutton; cook until done. 4. Add shredded parotta and beaten eggs; stir-fry quickly until eggs cook. 5. Serve hot.",
+  "instructions": "1. Shred parotta into small pieces. 2. Heat oil, sauté onions, tomatoes, green chillies, and curry leaves. 3. Add chicken or mutton; cook until done. 4. Add shredded parotta and beaten eggs; stir-fry quickly until eggs cook. 5. Serve hot.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kothu_Parotta.jpg",
   "thumb": "",
   "source": ""
@@ -777,7 +755,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "maida (all-purpose flour)",
+    "maida",
     "water",
     "salt",
     "oil"
@@ -794,14 +772,14 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "spinach or any leafy greens",
+    "spinach ",
     "turmeric",
     "curry leaves",
-    "green chilies",
+    "green chillies",
     "salt",
     "oil"
   ],
-  "instructions": "1. Wash and chop greens. 2. Boil with turmeric and salt until soft. 3. Mash the greens into a coarse paste. 4. Heat oil, sauté curry leaves and green chilies; mix into mashed greens. 5. Serve as a side dish with rice.",
+  "instructions": "1. Wash and chop greens. 2. Boil with turmeric and salt until soft. 3. Mash the greens into a coarse paste. 4. Heat oil, sauté curry leaves and green chillies; mix into mashed greens. 5. Serve as a side dish with rice.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Keerai_Masiyal.jpg",
   "thumb": "",
   "source": ""
@@ -813,17 +791,17 @@
   "category": "Main",
   "type": "Non-Vegetarian",
   "ingredients": [
-    "minced meat (mutton or chicken)",
+    "mutton","chicken",
     "onion",
     "ginger-garlic paste",
     "turmeric",
-    "red chili powder",
+    "red chilli powder",
     "coconut",
     "curry leaves",
     "salt",
     "oil"
   ],
-  "instructions": "1. Mix minced meat with spices and salt; form small balls. 2. Heat oil, fry onion, curry leaves, and ginger-garlic paste. 3. Add meatballs and cook until browned. 4. Add coconut paste, simmer until meatballs are fully cooked. 5. Serve hot with rice or roti.",
+  "instructions": "1. Mix  meat with spices and salt; form small balls. 2. Heat oil, fry onion, curry leaves, and ginger-garlic paste. 3. Add meatballs and cook until browned. 4. Add coconut paste, simmer until meatballs are fully cooked. 5. Serve hot with rice or roti.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kola_Urundai.jpg",
   "thumb": "",
   "source": ""
@@ -835,16 +813,16 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "kambu (pearl millet)",
+    "kambu",
     "moong dal",
     "turmeric",
     "curry leaves",
     "ginger",
-    "green chilies",
+    "green chillies",
     "salt",
-    "ghee or oil"
+    "ghee"
   ],
-  "instructions": "1. Roast kambu and moong dal lightly. 2. Cook with water, turmeric, and salt until soft. 3. Heat ghee, sauté curry leaves, ginger, and green chilies; mix into pongal. 4. Serve hot as a main dish.",
+  "instructions": "1. Roast kambu and moong dal lightly. 2. Cook with water, turmeric, and salt until soft. 3. Heat ghee, sauté curry leaves, ginger, and green chillies; mix into pongal. 4. Serve hot as a main dish.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kambu_Pongal.jpg",
   "thumb": "",
   "source": ""
@@ -856,7 +834,7 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "kambu (pearl millet) flour",
+    "kambu",
     "rice flour",
     "water",
     "salt",
@@ -874,15 +852,15 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "kambu (pearl millet) flour",
+    "kambu",
     "water",
     "onion",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "salt",
     "oil"
   ],
-  "instructions": "1. Heat oil, sauté chopped onions, green chilies, and curry leaves. 2. Boil water with salt. 3. Gradually add kambu flour to boiling water, stirring continuously to avoid lumps. 4. Cook until water is absorbed and upma is soft. 5. Serve hot with chutney or pickle.",
+  "instructions": "1. Heat oil, sauté chopped onions, green chillies, and curry leaves. 2. Boil water with salt. 3. Gradually add kambu flour to boiling water, stirring continuously to avoid lumps. 4. Cook until water is absorbed and upma is soft. 5. Serve hot with chutney or pickle.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kambu_Upma.jpg",
   "thumb": "",
   "source": ""
@@ -894,7 +872,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "kambu (pearl millet) flour",
+    "kambu",
     "moong dal",
     "water",
     "curry leaves",
@@ -914,11 +892,11 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "kambu (pearl millet) flour",
+    "kambu",
     "urad dal",
     "salt",
     "water",
-    "coconut (optional)"
+    "coconut"
   ],
   "instructions": "1. Soak urad dal for 4–5 hours and grind to a smooth batter. 2. Mix kambu flour, urad dal batter, and salt; let ferment for 8 hours. 3. Grease idli molds and pour batter. 4. Steam for 10–12 minutes until cooked. 5. Serve hot with coconut chutney or sambar.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kambu_Millet_Idli.jpg",
@@ -932,7 +910,7 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "kambu (pearl millet) flour",
+    "kambu",
     "toor dal",
     "turmeric",
     "curry leaves",
@@ -975,7 +953,7 @@
   "ingredients": [
     "cooked rice",
     "tamarind pulp",
-    "green chilies",
+    "green chillies",
     "ginger",
     "curry leaves",
     "garlic",
@@ -983,7 +961,7 @@
     "oil",
     "tempering spices"
   ],
-  "instructions": "1. Soak tamarind in water and extract juice. 2. Heat oil, add garlic, curry leaves, green chilies, and ginger; sauté. 3. Add tamarind juice, salt, and tempering spices; simmer for 5–7 minutes. 4. Mix in cooked rice thoroughly. 5. Serve with papad or as is.",
+  "instructions": "1. Soak tamarind in water and extract juice. 2. Heat oil, add garlic, curry leaves, green chillies, and ginger; sauté. 3. Add tamarind juice, salt, and tempering spices; simmer for 5–7 minutes. 4. Mix in cooked rice thoroughly. 5. Serve with papad or as is.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Puliogare.jpg",
   "thumb": "",
   "source": ""
@@ -998,15 +976,15 @@
     "chickpeas",
     "onion",
     "tomato",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "mustard seeds",
-    "chili powder",
+    "chilli powder",
     "turmeric",
     "salt",
     "oil"
   ],
-  "instructions": "1. Soak chickpeas overnight and boil until soft. 2. Heat oil, add mustard seeds, curry leaves, onions, and green chilies; sauté. 3. Add tomatoes, turmeric, chili powder, and salt; cook until soft. 4. Add boiled chickpeas; simmer for 10 minutes. 5. Serve hot with rice or roti.",
+  "instructions": "1. Soak chickpeas overnight and boil until soft. 2. Heat oil, add mustard seeds, curry leaves, onions, and green chillies; sauté. 3. Add tomatoes, turmeric, chilli powder, and salt; cook until soft. 4. Add boiled chickpeas; simmer for 10 minutes. 5. Serve hot with rice or roti.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kadalai_Curry.jpg",
   "thumb": "",
   "source": ""
@@ -1018,15 +996,15 @@
   "category": "Main",
   "type": "Vegetarian",
   "ingredients": [
-    "boiled legumes (chickpeas, black-eyed peas, or toor dal)",
+    "boiled legumes","chickpeas", "black-eyed peas","toor dal",
     "grated coconut",
     "curry leaves",
-    "green chilies",
+    "green chillies",
     "salt",
     "oil",
     "mustard seeds"
   ],
-  "instructions": "1. Heat oil, add mustard seeds, curry leaves, and green chilies; sauté. 2. Add boiled legumes and salt; mix well. 3. Stir in grated coconut; cook for 2–3 minutes. 4. Serve as a snack or side dish.",
+  "instructions": "1. Heat oil, add mustard seeds, curry leaves, and green chillies; sauté. 2. Add boiled legumes and salt; mix well. 3. Stir in grated coconut; cook for 2–3 minutes. 4. Serve as a snack or side dish.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sundal.jpg",
   "thumb": "",
   "source": ""
@@ -1038,16 +1016,16 @@
   "category": "Snack",
   "type": "Vegetarian",
   "ingredients": [
-    "yogurt",
-    "cucumber or vegetables",
+    "curd",
+    "cucumber",
     "tamarind paste",
     "salt",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "mustard seeds",
     "oil"
   ],
-  "instructions": "1. Chop vegetables and mix with yogurt and tamarind paste. 2. Heat oil, add mustard seeds and curry leaves; pour over yogurt mixture. 3. Add chopped green chilies and salt; stir well. 4. Serve chilled as a side dish with rice.",
+  "instructions": "1. Chop vegetables and mix with curd and tamarind paste. 2. Heat oil, add mustard seeds and curry leaves; pour over curd mixture. 3. Add chopped green chillies and salt; stir well. 4. Serve chilled as a side dish with rice.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Pachadi.jpg",
   "thumb": "",
   "source": ""
@@ -1060,15 +1038,15 @@
   "type": "Vegetarian",
   "ingredients": [
     "urad dal",
-    "yogurt",
+    "curd",
     "grated coconut",
-    "green chilies",
+    "green chillies",
     "curry leaves",
     "turmeric",
     "salt",
     "oil"
   ],
-  "instructions": "1. Soak urad dal for 4–5 hours, grind into a smooth batter. 2. Shape small vadas and deep fry until golden. 3. Whisk yogurt with salt and turmeric; add grated coconut, chopped green chilies, and curry leaves. 4. Soak fried vadas in yogurt mixture for 10–15 minutes. 5. Serve chilled.",
+  "instructions": "1. Soak urad dal for 4–5 hours, grind into a smooth batter. 2. Shape small vadas and deep fry until golden. 3. Whisk curd with salt and turmeric; add grated coconut, chopped green chillies, and curry leaves. 4. Soak fried vadas in curd mixture for 10–15 minutes. 5. Serve chilled.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Thayir_Vadai.jpg",
   "thumb": "",
   "source": ""
@@ -1099,7 +1077,7 @@
   "ingredients": [
     "rice flour",
     "urad dal flour",
-    "butter or oil",
+    "oil",
     "cumin seeds",
     "salt",
     "water",
@@ -1119,12 +1097,12 @@
     "ingredients": [
       "urad dal",
       "rice flour",
-      "chili powder",
+      "chilli powder",
       "butter",
       "salt",
       "oil"
     ],
-    "instructions": "1. Mix urad dal powder, rice flour, chili powder, salt, and butter into a soft dough. 2. Heat oil in a pan. 3. Shape the dough using a ribbon pakoda mold directly into hot oil. 4. Fry until crisp and golden. 5. Drain and serve as a snack.",
+    "instructions": "1. Mix urad dal powder, rice flour, chilli powder, salt, and butter into a soft dough. 2. Heat oil in a pan. 3. Shape the dough using a ribbon pakoda mold directly into hot oil. 4. Fry until crisp and golden. 5. Drain and serve as a snack.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ribbon_Pakoda.jpg",
     "thumb": "",
     "source": ""
@@ -1144,34 +1122,34 @@
       "tomato",
       "onion",
       "turmeric",
-      "chili powder",
+      "chilli powder",
       "oil",
       "salt"
     ],
-    "instructions": "1. Cook toor dal until soft and mash. 2. Heat oil, add mustard seeds, curry leaves, and garlic. 3. Sauté onions and tomatoes until soft. 4. Mix dal, turmeric, chili powder, and salt; simmer for 5 minutes. 5. Serve over puffed puris as a snack.",
+    "instructions": "1. Cook toor dal until soft and mash. 2. Heat oil, add mustard seeds, curry leaves, and garlic. 3. Sauté onions and tomatoes until soft. 4. Mix dal, turmeric, chilli powder, and salt; simmer for 5 minutes. 5. Serve over puffed puris as a snack.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Masala_Puri.jpg",
     "thumb": "",
     "source": ""
   },
   {
     "id": "TND063",
-    "title": "Vendakkai Curry",
+    "title": "Ladies Finger Curry",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "okra (vendakkai)",
+      "ladies finger",
       "curry leaves",
       "ginger",
       "tomato",
-      "chili powder",
+      "chilli powder",
       "garlic",
       "toor dal",
       "turmeric",
       "salt",
       "oil"
     ],
-    "instructions": "1. Wash and cut okra. 2. Heat oil, sauté mustard seeds, curry leaves, and garlic. 3. Add ginger, tomato, turmeric, and chili powder; cook until tomatoes soften. 4. Add toor dal and okra, simmer until cooked. 5. Serve hot with rice.",
+    "instructions": "1. Wash and cut okra. 2. Heat oil, sauté mustard seeds, curry leaves, and garlic. 3. Add ginger, tomato, turmeric, and chilli powder; cook until tomatoes soften. 4. Add toor dal and okra, simmer until cooked. 5. Serve hot with rice.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vendakkai_Curry.jpg",
     "thumb": "",
     "source": ""
@@ -1212,11 +1190,11 @@
       "ginger",
       "grated coconut",
       "turmeric",
-      "chili",
+      "chilli",
       "salt",
       "oil"
     ],
-    "instructions": "1. Finely chop cabbage, onion, garlic, and ginger. 2. Heat oil in a pan, sauté mustard seeds, garlic, ginger, and onion. 3. Add cabbage, turmeric, chili, and salt; cook covered until tender. 4. Mix in grated coconut and stir well. Serve as a side dish.",
+    "instructions": "1. Finely chop cabbage, onion, garlic, and ginger. 2. Heat oil in a pan, sauté mustard seeds, garlic, ginger, and onion. 3. Add cabbage, turmeric, chilli, and salt; cook covered until tender. 4. Mix in grated coconut and stir well. Serve as a side dish.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cabbage_Poriyal.jpg",
     "thumb": "",
     "source": ""
@@ -1228,17 +1206,17 @@
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "ridge gourd (peerkangai)",
+      "peerkangai",
       "onion",
       "urad dal",
       "toor dal",
       "ginger",
       "turmeric",
-      "chili",
+      "chilli",
       "salt",
       "oil"
     ],
-    "instructions": "1. Chop ridge gourd and onions. 2. Cook toor dal and urad dal until soft. 3. Heat oil, sauté mustard seeds, onions, and ginger. 4. Add ridge gourd, turmeric, chili, and salt; cook until tender. 5. Add cooked dal, simmer, and serve hot with rice.",
+    "instructions": "1. Chop ridge gourd and onions. 2. Cook toor dal and urad dal until soft. 3. Heat oil, sauté mustard seeds, onions, and ginger. 4. Add ridge gourd, turmeric, chilli, and salt; cook until tender. 5. Add cooked dal, simmer, and serve hot with rice.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Peerkangai_Curry.jpg",
     "thumb": "",
     "source": ""
@@ -1254,7 +1232,7 @@
       "turmeric",
       "rice flour",
       "salt",
-      "oil"
+      "oil","fish",
     ],
     "instructions": "1. Clean and wash anchovies. 2. Marinate with turmeric and salt. 3. Lightly coat with rice flour. 4. Heat oil in a pan and shallow fry until golden and crisp. 5. Serve hot as a side or snack.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Nethili_Fry.jpg",
@@ -1263,20 +1241,20 @@
   },
   {
     "id": "TND068",
-    "title": "Nandu Roast",
+    "title": "Crab Roast",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Non-Vegetarian",
     "ingredients": [
       "crab",
       "coconut",
-      "chili powder",
+      "chilli powder",
       "mustard seeds",
       "turmeric",
       "salt",
       "oil"
     ],
-    "instructions": "1. Clean and cut the crab into pieces. 2. Heat oil, sauté mustard seeds, turmeric, and chili powder. 3. Add crab pieces, cover and cook until done. 4. Grind coconut with spices into a paste and add to the crab. 5. Simmer until gravy thickens and serve hot.",
+    "instructions": "1. Clean and cut the crab into pieces. 2. Heat oil, sauté mustard seeds, turmeric, and chilli powder. 3. Add crab pieces, cover and cook until done. 4. Grind coconut with spices into a paste and add to the crab. 5. Simmer until gravy thickens and serve hot.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Nandu_Roast.jpg",
     "thumb": "",
     "source": ""
@@ -1293,12 +1271,12 @@
       "garlic",
       "coconut",
       "turmeric",
-      "chili powder",
+      "chilli powder",
       "curry leaves",
       "oil",
       "salt"
     ],
-    "instructions": "1. Marinate mutton with turmeric, chili powder, and salt. 2. Heat oil, sauté onions, garlic, and curry leaves. 3. Add marinated mutton and cook until tender. 4. Grind coconut into a paste and add to the curry. 5. Simmer until thickened and serve with rice.",
+    "instructions": "1. Marinate mutton with turmeric, chilli powder, and salt. 2. Heat oil, sauté onions, garlic, and curry leaves. 3. Add marinated mutton and cook until tender. 4. Grind coconut into a paste and add to the curry. 5. Simmer until thickened and serve with rice.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Chettinad_Mutton.jpg",
     "thumb": "",
     "source": ""
@@ -1311,39 +1289,20 @@
     "type": "Non-Vegetarian",
     "ingredients": [
       "mutton",
-      "chili powder",
+      "chilli powder",
       "curry leaves",
       "garlic",
       "salt",
       "oil"
     ],
-    "instructions": "1. Marinate mutton with chili powder, garlic, and salt. 2. Heat oil and sauté curry leaves. 3. Add mutton and fry on high heat until dry and cooked. 4. Serve as a spicy side dish with rice or roti.",
+    "instructions": "1. Marinate mutton with chilli powder, garlic, and salt. 2. Heat oil and sauté curry leaves. 3. Add mutton and fry on high heat until dry and cooked. 4. Serve as a spicy side dish with rice or roti.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mutton_Chukka.jpg",
     "thumb": "",
     "source": ""
   },
   {
-    "id": "TND071",
-    "title": "Mutton Sukka",
-    "area": "Tamil Nadu",
-    "category": "Main",
-    "type": "Non-Vegetarian",
-    "ingredients": [
-      "mutton",
-      "chili powder",
-      "garlic",
-      "turmeric",
-      "salt",
-      "oil"
-    ],
-    "instructions": "1. Marinate mutton with chili powder, garlic, turmeric, and salt. 2. Heat oil in a pan and fry mutton on medium heat until dry and cooked. 3. Stir continuously for even cooking. 4. Serve hot as a dry curry with rice or roti.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Mutton_Sukka.jpg",
-    "thumb": "",
-    "source": ""
-  },
-  {
     "id": "TND072",
-    "title": "Kozhi Biryani",
+    "title": "chicken Biryani",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Non-Vegetarian",
@@ -1351,7 +1310,7 @@
       "chicken",
       "rice",
       "curry leaves",
-      "chili powder",
+      "chilli powder",
       "toor dal",
       "mustard seeds",
       "tamarind",
@@ -1361,7 +1320,7 @@
       "salt",
       "oil"
     ],
-    "instructions": "1. Marinate chicken with chili powder, salt, and ginger-garlic paste. 2. Heat oil, sauté mustard seeds, curry leaves, and onions. 3. Add chicken and cook until half done. 4. Add soaked rice, tamarind juice, and water; cook covered until rice and chicken are fully done. 5. Serve hot with raita or boiled eggs.",
+    "instructions": "1. Marinate chicken with chilli powder, salt, and ginger-garlic paste. 2. Heat oil, sauté mustard seeds, curry leaves, and onions. 3. Add chicken and cook until half done. 4. Add soaked rice, tamarind juice, and water; cook covered until rice and chicken are fully done. 5. Serve hot with raita or boiled eggs.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kozhi_Biryani.jpg",
     "thumb": "",
     "source": ""
@@ -1380,12 +1339,12 @@
       "ginger",
       "garlic",
       "turmeric",
-      "chili powder",
+      "chilli powder",
       "curry leaves",
       "salt",
       "oil"
     ],
-    "instructions": "1. Boil and peel eggs. 2. Heat oil, sauté onions, ginger, garlic, and curry leaves. 3. Add tomatoes, turmeric, and chili powder; cook until soft. 4. Add coconut paste and water to make a gravy. 5. Add boiled eggs, simmer for 5–10 minutes, and serve hot with rice or roti.",
+    "instructions": "1. Boil and peel eggs. 2. Heat oil, sauté onions, ginger, garlic, and curry leaves. 3. Add tomatoes, turmeric, and chilli powder; cook until soft. 4. Add coconut paste and water to make a gravy. 5. Add boiled eggs, simmer for 5–10 minutes, and serve hot with rice or roti.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Egg_Curry.jpg",
     "thumb": "",
     "source": ""
@@ -1397,41 +1356,41 @@
     "category": "Main",
     "type": "Non-Vegetarian",
     "ingredients": [
-      "prawns",
+      "prawn",
       "turmeric",
       "onion",
       "garlic",
-      "chili powder",
+      "chilli powder",
       "coconut",
       "curry leaves",
       "mustard seeds",
       "salt",
       "oil"
     ],
-    "instructions": "1. Clean prawns and marinate with turmeric and salt. 2. Heat oil, sauté mustard seeds, curry leaves, onions, and garlic. 3. Add chili powder and coconut paste, cook for 2–3 minutes. 4. Add prawns and simmer until cooked. 5. Serve hot with steamed rice.",
+    "instructions": "1. Clean prawn and marinate with turmeric and salt. 2. Heat oil, sauté mustard seeds, curry leaves, onions, and garlic. 3. Add chilli powder and coconut paste, cook for 2–3 minutes. 4. Add prawn and simmer until cooked. 5. Serve hot with steamed rice.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chettinad_Prawn_Masala.jpg",
     "thumb": "",
     "source": ""
   },
   {
     "id": "TND075",
-    "title": "Prawn Kuzhambu",
+    "title": "Prawn curry",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Non-Vegetarian",
     "ingredients": [
-      "prawns",
+      "prawn",
       "tomato",
       "onion",
       "turmeric",
-      "chili powder",
+      "chilli powder",
       "tamarind",
       "curry leaves",
       "salt",
       "oil"
     ],
-    "instructions": "1. Soak tamarind in water and extract juice. 2. Heat oil, sauté onions and curry leaves. 3. Add tomatoes, turmeric, chili powder, and tamarind juice; simmer for 5–10 minutes. 4. Add cleaned prawns and cook until done. 5. Serve hot with steamed rice.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Prawn_Kuzhambu.jpg",
+    "instructions": "1. Soak tamarind in water and extract juice. 2. Heat oil, sauté onions and curry leaves. 3. Add tomatoes, turmeric, chilli powder, and tamarind juice; simmer for 5–10 minutes. 4. Add cleaned prawn and cook until done. 5. Serve hot with steamed rice.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Prawn_curry.jpg",
     "thumb": "",
     "source": ""
   },
@@ -1467,12 +1426,12 @@
       "urad dal",
       "rice",
       "ginger",
-      "green chilies",
+      "green chillies",
       "curry leaves",
       "salt",
       "oil"
     ],
-    "instructions": "1. Soak urad dal and rice, then grind into a coarse batter. 2. Add chopped ginger, green chilies, curry leaves, and salt. 3. Heat oil in a pan. 4. Shape batter into small vadai and deep fry until golden. 5. Serve hot as a snack.",
+    "instructions": "1. Soak urad dal and rice, then grind into a coarse batter. 2. Add chopped ginger, green chillies, curry leaves, and salt. 3. Heat oil in a pan. 4. Shape batter into small vadai and deep fry until golden. 5. Serve hot as a snack.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pazhaiya_Vadai.jpg",
     "thumb": "",
     "source": ""
@@ -1494,10 +1453,10 @@
       "salt",
       "turmeric",
       "ginger",
-      "green chilies",
+      "green chillies",
       "oil"
     ],
-    "instructions": "1. Cook toor dal and rice together until soft. 2. Heat oil, sauté mustard seeds, urad dal, curry leaves, ginger, and green chilies. 3. Add chopped tomato, turmeric, and salt; cook briefly. 4. Mix in cooked dal and rice, adjust consistency with water. 5. Serve hot as a savory dish.",
+    "instructions": "1. Cook toor dal and rice together until soft. 2. Heat oil, sauté mustard seeds, urad dal, curry leaves, ginger, and green chillies. 3. Add chopped tomato, turmeric, and salt; cook briefly. 4. Mix in cooked dal and rice, adjust consistency with water. 5. Serve hot as a savory dish.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kara_Pongal.jpg",
     "thumb": "",
     "source": ""
@@ -1530,9 +1489,9 @@
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "rava (semolina)",
+      "rava",
       "rice flour",
-      "urad dal",
+      "urad dal","batter",
       "coconut",
       "ginger",
       "tomato",
@@ -1578,12 +1537,12 @@
       "rice",
       "onion",
       "mustard seeds",
-      "chili",
+      "chilli",
       "curry leaves",
       "salt",
       "oil"
     ],
-    "instructions": "1. Soak and grind urad dal and rice into a batter. 2. Mix chopped onion, mustard seeds, chili, curry leaves, and salt into batter. 3. Heat paniyaram pan with oil. 4. Pour batter into molds, cook until crisp on both sides. 5. Serve hot with chutney.",
+    "instructions": "1. Soak and grind urad dal and rice into a batter. 2. Mix chopped onion, mustard seeds, chilli, curry leaves, and salt into batter. 3. Heat paniyaram pan with oil. 4. Pour batter into molds, cook until crisp on both sides. 5. Serve hot with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paniyaram_Spicy.jpg",
     "thumb": "",
     "source": ""
@@ -1601,12 +1560,12 @@
       "ginger",
       "tomato",
       "urad dal",
-      "chili",
+      "chilli",
       "curry leaves",
       "oil",
       "salt"
     ],
-    "instructions": "1. Boil and mash potatoes. 2. Heat oil, sauté urad dal, curry leaves, onion, garlic, and ginger. 3. Add tomato and chili, cook until soft. 4. Add mashed potatoes and mix well. 5. Serve hot with dosa, idli, or chapati.",
+    "instructions": "1. Boil and mash potatoes. 2. Heat oil, sauté urad dal, curry leaves, onion, garlic, and ginger. 3. Add tomato and chilli, cook until soft. 4. Add mashed potatoes and mix well. 5. Serve hot with dosa, idli, or chapati.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Aloo_Masala.jpg",
     "thumb": "",
     "source": ""
@@ -1642,27 +1601,27 @@
       "spinach",
       "onion",
       "ginger",
-      "chili",
+      "chilli",
       "turmeric",
       "curry leaves",
       "mustard seeds",
       "oil",
       "salt"
     ],
-    "instructions": "1. Chop spinach and onions. 2. Heat oil, sauté mustard seeds, curry leaves, onion, and ginger. 3. Add turmeric, chili, and salt. 4. Add spinach, cover, and cook until wilted. 5. Serve hot with rice or roti.",
+    "instructions": "1. Chop spinach and onions. 2. Heat oil, sauté mustard seeds, curry leaves, onion, and ginger. 3. Add turmeric, chilli, and salt. 4. Add spinach, cover, and cook until wilted. 5. Serve hot with rice or roti.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Keerai_Masala.jpg",
     "thumb": "",
     "source": ""
   },
   {
     "id": "TND086",
-    "title": "Vendhaya Kuzhambu",
+    "title": "Vendhaya curry",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
       "fenugreek seeds",
-      "chili",
+      "chilli",
       "coconut",
       "salt",
       "tomato",
@@ -1671,8 +1630,8 @@
       "curry leaves",
       "oil"
     ],
-    "instructions": "1. Cook toor dal until soft. 2. Grind coconut with chili to a smooth paste. 3. Heat oil, sauté fenugreek seeds and curry leaves. 4. Add tomatoes and turmeric; cook for 2–3 minutes. 5. Mix dal and coconut paste, simmer 5–7 minutes. 6. Serve hot with steamed rice.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vendhaya_Kuzhambu.jpg",
+    "instructions": "1. Cook toor dal until soft. 2. Grind coconut with chilli to a smooth paste. 3. Heat oil, sauté fenugreek seeds and curry leaves. 4. Add tomatoes and turmeric; cook for 2–3 minutes. 5. Mix dal and coconut paste, simmer 5–7 minutes. 6. Serve hot with steamed rice.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vendhaya_curry.jpg",
     "thumb": "",
     "source": ""
   },
@@ -1683,7 +1642,7 @@
     "category": "Snack",
     "type": "Vegetarian",
     "ingredients": [
-      "horse gram (kollu)",
+      "kollu",
       "tamarind",
       "rice",
       "curry leaves",
@@ -1703,16 +1662,16 @@
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "finger millet (kelvaragu)",
+      "kelvaragu",
       "toor dal",
       "ginger",
       "onion",
       "curry leaves",
-      "green chilies",
+      "green chillies",
       "salt",
       "oil"
     ],
-    "instructions": "1. Roast and grind finger millet. 2. Cook toor dal and mix with millet. 3. Heat oil, sauté ginger, onion, green chilies, and curry leaves. 4. Mix with millet and dal, cook 5–7 minutes. 5. Serve hot as a nutritious main dish.",
+    "instructions": "1. Roast and grind finger millet. 2. Cook toor dal and mix with millet. 3. Heat oil, sauté ginger, onion, green chillies, and curry leaves. 4. Mix with millet and dal, cook 5–7 minutes. 5. Serve hot as a nutritious main dish.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kelvaragu_Pongal.jpg",
     "thumb": "",
     "source": ""
@@ -1775,7 +1734,7 @@
   },
   {
     "id": "TND092",
-    "title": "Kozhi Varuval",
+    "title": "chicken Varuval",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Non-Vegetarian",
@@ -1784,12 +1743,12 @@
       "urad dal",
       "mustard seeds",
       "curry leaves",
-      "chili powder",
+      "chilli powder",
       "garlic",
       "salt",
       "oil"
     ],
-    "instructions": "1. Marinate chicken with chili powder, garlic, and salt. 2. Heat oil, sauté mustard seeds and curry leaves. 3. Add chicken, cook until golden and fully cooked. 4. Serve hot with rice or chapati.",
+    "instructions": "1. Marinate chicken with chilli powder, garlic, and salt. 2. Heat oil, sauté mustard seeds and curry leaves. 3. Add chicken, cook until golden and fully cooked. 4. Serve hot with rice or chapati.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kozhi_Varuval.jpg",
     "thumb": "",
     "source": ""
@@ -1801,16 +1760,16 @@
     "category": "Snack",
     "type": "Non-Vegetarian",
     "ingredients": [
-      "minced mutton",
+      "mutton",
       "onion",
       "ginger",
-      "chili",
+      "chilli",
       "tamarind",
       "curry leaves",
       "salt",
       "oil"
     ],
-    "instructions": "1. Heat oil, sauté onions, ginger, chili, and curry leaves. 2. Add minced mutton and salt; cook until browned. 3. Add tamarind paste and simmer 10–15 minutes. 4. Serve hot as a snack or side.",
+    "instructions": "1. Heat oil, sauté onions, ginger, chilli, and curry leaves. 2. Add  mutton and salt; cook until browned. 3. Add tamarind paste and simmer 10–15 minutes. 4. Serve hot as a snack or side.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Keema_Varuval.jpg",
     "thumb": "",
     "source": ""
@@ -1826,12 +1785,12 @@
       "ginger",
       "mustard seeds",
       "curry leaves",
-      "chili powder",
+      "chilli powder",
       "garlic",
       "salt",
       "oil"
     ],
-    "instructions": "1. Marinate mutton chops with chili powder, ginger, and salt. 2. Heat oil, sauté mustard seeds and curry leaves. 3. Add mutton chops and cook until tender and browned. 4. Serve hot with rice or roti.",
+    "instructions": "1. Marinate mutton chops with chilli powder, ginger, and salt. 2. Heat oil, sauté mustard seeds and curry leaves. 3. Add mutton chops and cook until tender and browned. 4. Serve hot with rice or roti.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mutton_Chops_Chettinad.jpg",
     "thumb": "",
     "source": ""
@@ -1844,7 +1803,7 @@
     "type": "Vegetarian",
     "ingredients": [
       "drumstick leaves",
-      "chili",
+      "chilli",
       "ginger",
       "tomato",
       "salt",
@@ -1852,7 +1811,7 @@
       "toor dal",
       "oil"
     ],
-    "instructions": "1. Cook toor dal until soft. 2. Heat oil, sauté ginger, curry leaves, and chili. 3. Add tomato and salt; cook until soft. 4. Add drumstick leaves and dal, simmer 5–10 minutes. 5. Serve hot with rice.",
+    "instructions": "1. Cook toor dal until soft. 2. Heat oil, sauté ginger, curry leaves, and chilli. 3. Add tomato and salt; cook until soft. 4. Add drumstick leaves and dal, simmer 5–10 minutes. 5. Serve hot with rice.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Surul_Pattai_Curry.jpg",
     "thumb": "",
     "source": ""
@@ -1921,15 +1880,15 @@
     "category": "Snack",
     "type": "Vegetarian",
     "ingredients": [
-      "ripe bananas",
+      "banana",
       "toor dal",
       "ginger",
-      "chili",
+      "chilli",
       "coconut",
       "salt",
       "water"
     ],
-    "instructions": "1. Cook toor dal until soft. 2. Mash bananas and add to cooked dal. 3. Add grated coconut, ginger, chili, and salt. 4. Cook for 5 minutes and serve warm as a nutritious snack.",
+    "instructions": "1. Cook toor dal until soft. 2. Mash bananas and add to cooked dal. 3. Add grated coconut, ginger, chilli, and salt. 4. Cook for 5 minutes and serve warm as a nutritious snack.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pazham_Kanji.jpg",
     "thumb": "",
     "source": ""
@@ -1985,13 +1944,10 @@
     "ingredients": [
       "milk",
       "sugar",
-      "urad dal",
-      "toor dal",
       "coconut",
-      "curry leaves",
-      "onion"
+      
     ],
-    "instructions": "1. Boil milk until thickened. 2. Mix in sugar and cook until it forms a soft fudge. 3. Add roasted coconut and dal paste. 4. Serve in small pieces once cooled.",
+    "instructions": "1. Boil milk until thickened. 2. Mix in sugar and cook until it forms a soft fudge. 3. Add roasted coconut. 4. Serve in small pieces once cooled.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Paalkova.jpg",
     "thumb": "",
     "source": ""
@@ -2045,7 +2001,7 @@
     "type": "Vegetarian",
     "ingredients": [
       "rice flour",
-      "urad dal",
+      "urad dal","batter",
       "turmeric",
       "salt",
       "water",
@@ -2098,12 +2054,12 @@
   },
   {
     "id": "TND108",
-    "title": "Sundakkai Vathal Kuzhambu",
+    "title": "Sundakkai Vathal curry",
     "area": "Tamil Nadu",
     "category": "Snack",
     "type": "Vegetarian",
     "ingredients": [
-      "sundakkai (turkey berry)",
+      "sundakkai",
       "urad dal",
       "tamarind",
       "ginger",
@@ -2113,7 +2069,7 @@
       "oil"
     ],
     "instructions": "1. Soak tamarind and extract juice. 2. Heat oil, sauté ginger, onion, and curry leaves. 3. Add sundakkai and tamarind juice, cook 10 minutes. 4. Add urad dal paste and simmer 5 minutes. Serve with steamed rice.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sundakkai_Vathal_Kuzhambu.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sundakkai_Vathal_curry.jpg",
     "thumb": "",
     "source": ""
   },
@@ -2129,7 +2085,7 @@
       "sarsaparilla syrup",
       "ice cream",
       "basil seeds",
-      "chili"
+      "chilli"
     ],
     "instructions": "1. Soak basil seeds in water until soft. 2. Prepare sarsaparilla syrup. 3. Layer chilled milk, syrup, ice cream, and basil seeds in a glass. 4. Serve immediately with a straw.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Madurai_Jigarthanda.jpg",
@@ -2138,22 +2094,22 @@
   },
   {
     "id": "TND110",
-    "title": "Kara Kuzhambu Eggplant",
+    "title": "Kara curry Eggplant",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
       "eggplant",
       "tomato",
-      "chili",
+      "chilli",
       "ginger",
       "salt",
       "tamarind",
       "curry leaves",
       "oil"
     ],
-    "instructions": "1. Chop eggplant and tomato. 2. Heat oil, sauté ginger, chili, and curry leaves. 3. Add eggplant and tomato, cook 5–7 minutes. 4. Add tamarind juice, simmer until cooked. Serve with rice.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kara_Kuzhambu.jpg",
+    "instructions": "1. Chop eggplant and tomato. 2. Heat oil, sauté ginger, chilli, and curry leaves. 3. Add eggplant and tomato, cook 5–7 minutes. 4. Add tamarind juice, simmer until cooked. Serve with rice.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kara_curry.jpg",
     "thumb": "",
     "source": ""
   },
@@ -2167,12 +2123,12 @@
       "urad dal",
       "rice",
       "turmeric",
-      "chili",
+      "chilli",
       "salt",
       "curry leaves",
       "oil"
     ],
-    "instructions": "1. Soak urad dal and rice, grind into a smooth batter. 2. Add turmeric, chili, and salt. 3. Pour batter into paniyaram pan, cook both sides with a little oil. 4. Serve hot with chutney.",
+    "instructions": "1. Soak urad dal and rice, grind into a smooth batter. 2. Add turmeric, chilli, and salt. 3. Pour batter into paniyaram pan, cook both sides with a little oil. 4. Serve hot with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vellai_Paniyaram.jpg",
     "thumb": "",
     "source": ""
@@ -2184,9 +2140,9 @@
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "kollu (horse gram)",
+      "kollu",
       "tomato",
-      "chili",
+      "chilli",
       "garlic",
       "turmeric",
       "salt",
@@ -2194,7 +2150,7 @@
       "curry leaves",
       "oil"
     ],
-    "instructions": "1. Cook kollu until soft and mash. 2. Boil tomatoes with turmeric and chili. 3. Heat oil, sauté garlic and curry leaves. 4. Combine all, add coconut paste, simmer 5 minutes. Serve hot with rice.",
+    "instructions": "1. Cook kollu until soft and mash. 2. Boil tomatoes with turmeric and chilli. 3. Heat oil, sauté garlic and curry leaves. 4. Combine all, add coconut paste, simmer 5 minutes. Serve hot with rice.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kollu_Rasam.jpg",
     "thumb": "",
     "source": ""
@@ -2206,7 +2162,7 @@
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "kollu (horse gram)",
+      "kollu",
       "coconut",
       "ginger",
       "onion",
@@ -2245,7 +2201,7 @@
   },
   {
     "id": "TND115",
-    "title": "Kozhi Milagu Roast",
+    "title": "chicken Milagu Roast",
     "area": "Tamil Nadu",
     "category": "Main",
     "type": "Non-Vegetarian",
@@ -2271,16 +2227,16 @@
     "type": "Vegetarian",
     "ingredients": [
       "rice",
-      "urad dal",
+      "urad dal","batter",
       "onion",
       "garlic",
       "turmeric",
       "mustard seeds",
-      "chili",
+      "chilli",
       "potato",
       "oil"
     ],
-    "instructions": "1. Soak rice and urad dal, grind to a smooth batter. 2. Prepare potato masala with onion, garlic, turmeric, and chili. 3. Pour batter on hot pan, spread thin. 4. Place potato masala inside dosa, fold, and serve with chutney.",
+    "instructions": "1. Soak rice and urad dal, grind to a smooth batter. 2. Prepare potato masala with onion, garlic, turmeric, and chilli. 3. Pour batter on hot pan, spread thin. 4. Place potato masala inside dosa, fold, and serve with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Masala_Dosa.jpg",
     "thumb": "",
     "source": ""
@@ -2293,7 +2249,7 @@
     "type": "Vegetarian",
     "ingredients": [
       "rice",
-      "urad dal",
+      "urad dal","batter",
       "tamarind",
       "salt",
       "oil"
@@ -2311,7 +2267,7 @@
     "type": "Vegetarian",
     "ingredients": [
       "rice",
-      "urad dal",
+      "urad dal","batter",
       "ginger",
       "coconut",
       "salt",
@@ -2329,8 +2285,8 @@
     "category": "Main",
     "type": "Vegetarian",
     "ingredients": [
-      "rava (semolina)",
-      "urad dal",
+      "rava",
+      "urad dal","batter",
       "tamarind",
       "ginger",
       "garlic",
@@ -2375,7 +2331,7 @@
       "urad dal",
       "garlic",
       "turmeric",
-      "chili",
+      "chilli",
       "salt",
       "curry leaves",
       "oil"
@@ -2396,14 +2352,14 @@
       "urad dal",
       "rice",
       "coconut",
-      "chili",
+      "chilli",
       "onion",
       "garlic",
       "salt",
       "curry leaves",
       "oil"
     ],
-    "instructions": "1. Cook toor dal and urad dal until soft. 2. Heat oil, sauté onion, garlic, chili, and curry leaves. 3. Mix in cooked dal and rice, garnish with grated coconut. 4. Serve hot as a main dish.",
+    "instructions": "1. Cook toor dal and urad dal until soft. 2. Heat oil, sauté onion, garlic, chilli, and curry leaves. 3. Mix in cooked dal and rice, garnish with grated coconut. 4. Serve hot as a main dish.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Satham_Paruppu.jpg",
     "thumb": "",
     "source": ""
@@ -2419,12 +2375,12 @@
       "rice",
       "turmeric",
       "garlic",
-      "chili",
+      "chilli",
       "salt",
       "oil",
       "curry leaves"
     ],
-    "instructions": "1. Soak urad dal and rice, grind to smooth batter. 2. Add turmeric, garlic, chili, and salt. 3. Pour batter into paniyaram pan, cook both sides with oil. 4. Serve hot with chutney.",
+    "instructions": "1. Soak urad dal and rice, grind to smooth batter. 2. Add turmeric, garlic, chilli, and salt. 3. Pour batter into paniyaram pan, cook both sides with oil. 4. Serve hot with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kuzhi_Paniyaram.jpg",
     "thumb": "",
     "source": ""
@@ -2435,7 +2391,7 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["semolina", "whole wheat flour", "potatoes", "chickpeas", "tamarind", "mint", "spices", "water"],
+    "ingredients": ["rava", "whole wheat flour", "potatoes", "chickpeas", "tamarind", "mint", "spices", "water"],
     "instructions": "1. Make small puris from semolina and wheat flour. 2. Prepare spicy tamarind water. 3. Boil potatoes and mash with spices. 4. Fill puris with potato-chickpea mixture and serve with tamarind water.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pani_Puri.jpg",
     "thumb": "",
@@ -2447,8 +2403,8 @@
     "area": "India",
     "category": "Breakfast",
     "type": "Vegetarian",
-    "ingredients": ["bread slices", "eggs", "onion", "tomato", "green chili", "salt", "pepper", "oil"],
-    "instructions": "1. Beat eggs with chopped onion, tomato, chili, salt, and pepper. 2. Pour mixture into a hot pan, cook until almost set. 3. Place a slice of bread on top and fold. 4. Cook both sides and serve hot.",
+    "ingredients": ["bread slices", "eggs", "onion", "tomato", "green chilli", "salt", "pepper", "oil"],
+    "instructions": "1. Beat eggs with chopped onion, tomato, chilli, salt, and pepper. 2. Pour mixture into a hot pan, cook until almost set. 3. Place a slice of bread on top and fold. 4. Cook both sides and serve hot.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bread_omelette.jpg",
     "thumb": "",
     "source": ""
@@ -2507,8 +2463,8 @@
     "area": "India",
     "category": "Breakfast",
     "type": "Vegetarian",
-    "ingredients": ["wheat flour", "potatoes", "green chili", "coriander", "salt", "oil", "butter"],
-    "instructions": "1. Boil and mash potatoes, mix with chili, coriander, and salt. 2. Roll wheat dough into small circles. 3. Place potato filling inside and fold. 4. Cook on a hot tawa with butter and serve hot.",
+    "ingredients": ["wheat flour", "potatoes", "green chilli", "coriander", "salt", "oil", "butter"],
+    "instructions": "1. Boil and mash potatoes, mix with chilli, coriander, and salt. 2. Roll wheat dough into small circles. 3. Place potato filling inside and fold. 4. Cook on a hot tawa with butter and serve hot.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aloo_Paratha.jpg",
     "thumb": "",
     "source": ""
@@ -2519,8 +2475,8 @@
     "area": "Tibet/India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["all-purpose flour", "cabbage", "carrot", "onion", "garlic", "soy sauce", "oil"],
-    "instructions": "1. Prepare dough from flour and water. 2. Finely chop vegetables and mix with soy sauce. 3. Fill dough with vegetable mixture and fold. 4. Steam for 10–15 minutes and serve with chili sauce.",
+    "ingredients": ["maida", "cabbage", "carrot", "onion", "garlic", "soy sauce", "oil"],
+    "instructions": "1. Prepare dough from flour and water. 2. Finely chop vegetables and mix with soy sauce. 3. Fill dough with vegetable mixture and fold. 4. Steam for 10–15 minutes and serve with chilli sauce.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vegetable_momos.jpg",
     "thumb": "",
     "source": ""
@@ -2615,7 +2571,7 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["all-purpose flour", "potatoes", "peas", "spices", "oil", "salt"],
+    "ingredients": ["maida", "potatoes", "peas", "spices", "oil", "salt"],
     "instructions": "1. Make dough with flour, oil, and water. 2. Boil potatoes and mix with peas and spices. 3. Roll dough, fill with mixture, and fold. 4. Deep fry until golden brown.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Samosa.jpg",
     "thumb": "",
@@ -2627,8 +2583,8 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["paneer", "yogurt", "red chili powder", "turmeric", "garam masala", "lemon juice", "oil"],
-    "instructions": "1. Marinate paneer cubes in yogurt and spices for 1–2 hours. 2. Skewer and grill or bake until edges are charred. 3. Serve hot with chutney.",
+    "ingredients": ["paneer", "curd", "red chilli powder", "turmeric", "garam masala", "lemon juice", "oil"],
+    "instructions": "1. Marinate paneer cubes in curd and spices for 1–2 hours. 2. Skewer and grill or bake until edges are charred. 3. Serve hot with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Paneer_Tikka.jpg",
     "thumb": "",
     "source": ""
@@ -2663,7 +2619,7 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["potatoes", "gram flour", "bread buns", "chili", "garlic", "oil", "spices"],
+    "ingredients": ["potatoes", "gram flour", "bread buns", "chilli", "garlic", "oil", "spices"],
     "instructions": "1. Boil and mash potatoes with spices. 2. Make batter from gram flour. 3. Coat potato mixture with batter and deep fry. 4. Serve in bread buns with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vada_Pav.jpg",
     "thumb": "",
@@ -2675,21 +2631,9 @@
     "area": "India",
     "category": "Breakfast",
     "type": "Vegetarian",
-    "ingredients": ["flattened rice", "onion", "green chili", "mustard seeds", "turmeric", "peanuts", "coriander"],
-    "instructions": "1. Rinse flattened rice and set aside. 2. Sauté onion, chili, mustard seeds, turmeric, and peanuts. 3. Add rice and cook briefly. 4. Garnish with coriander and serve.",
+    "ingredients": ["flattened rice", "onion", "green chilli", "mustard seeds", "turmeric", "peanuts", "coriander"],
+    "instructions": "1. Rinse flattened rice and set aside. 2. Sauté onion, chilli, mustard seeds, turmeric, and peanuts. 3. Add rice and cook briefly. 4. Garnish with coriander and serve.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Poha.jpg",
-    "thumb": "",
-    "source": ""
-  },
-  {
-    "id": "GEN024",
-    "title": "Upma",
-    "area": "India",
-    "category": "Breakfast",
-    "type": "Vegetarian",
-    "ingredients": ["semolina", "onion", "green chili", "ginger", "curry leaves", "mustard seeds", "oil", "water"],
-    "instructions": "1. Roast semolina lightly. 2. Sauté onion, chili, ginger, curry leaves, and mustard seeds. 3. Add water and bring to boil. 4. Stir in semolina and cook until fluffy. Serve hot.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Upma.jpg",
     "thumb": "",
     "source": ""
   },
@@ -2699,8 +2643,8 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["gram flour", "yogurt", "turmeric", "ginger", "green chili", "mustard seeds", "curry leaves", "oil"],
-    "instructions": "1. Mix gram flour, yogurt, turmeric, chili, and ginger to form batter. 2. Steam until fluffy. 3. Prepare tempering with mustard seeds and curry leaves. 4. Pour over dhokla and serve.",
+    "ingredients": ["gram flour", "curd", "turmeric", "ginger", "green chilli", "mustard seeds", "curry leaves", "oil"],
+    "instructions": "1. Mix gram flour, curd, turmeric, chilli, and ginger to form batter. 2. Steam until fluffy. 3. Prepare tempering with mustard seeds and curry leaves. 4. Pour over dhokla and serve.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Masala_Dhokla.jpg",
     "thumb": "",
     "source": ""
@@ -2807,8 +2751,8 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["gram flour", "yogurt", "turmeric", "ginger", "green chili", "mustard seeds", "curry leaves", "oil"],
-    "instructions": "1. Mix gram flour, yogurt, turmeric, chili, and ginger to form batter. 2. Steam until fluffy. 3. Prepare tempering with mustard seeds and curry leaves. 4. Pour over dhokla and serve.",
+    "ingredients": ["gram flour", "curd", "turmeric", "ginger", "green chilli", "mustard seeds", "curry leaves", "oil"],
+    "instructions": "1. Mix gram flour, curd, turmeric, chilli, and ginger to form batter. 2. Steam until fluffy. 3. Prepare tempering with mustard seeds and curry leaves. 4. Pour over dhokla and serve.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Dhokla.jpg",
     "thumb": "",
     "source": ""
@@ -2843,7 +2787,7 @@
     "area": "Global",
     "category": "Dessert",
     "type": "Vegetarian",
-    "ingredients": ["bread slices", "cream", "fruits", "sugar"],
+    "ingredients": ["bread", "cream", "fruits", "sugar"],
     "instructions": "1. Spread cream and fruits between bread slices. 2. Layer slices to form cake. 3. Decorate with cream and fruits. 4. Chill and serve.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sandwich_cake.jpg",
     "thumb": "",
@@ -2867,7 +2811,7 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["gram flour", "onion", "potato", "spinach", "chili", "oil", "salt", "spices"],
+    "ingredients": ["gram flour", "onion", "potato", "spinach", "chilli", "oil", "salt", "spices"],
     "instructions": "1. Slice vegetables thinly. 2. Coat with gram flour, salt, and spices. 3. Deep fry until golden brown. 4. Serve hot with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bhajiya.jpg",
     "thumb": "",
@@ -2882,7 +2826,7 @@
   "ingredients": [
     "pasta",
     "butter",
-    "all-purpose flour",
+    "maida",
     "milk",
     "cheese",
     "garlic",
@@ -2901,8 +2845,8 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["flour", "urad dal", "spices", "oil", "salt"],
-    "instructions": "1. Prepare dough with flour and salt. 2. Cook spiced urad dal filling. 3. Fill dough with dal mixture, seal, and deep fry until golden. 4. Serve hot with chutney.",
+    "ingredients": ["wheat flour", "urad dal", "spices", "oil", "salt"],
+    "instructions": "1. Prepare dough with flour(wheat or maida) and salt. 2. Cook spiced urad dal filling. 3. Fill dough with dal mixture, seal, and deep fry until golden. 4. Serve hot with chutney.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kachori.jpg",
     "thumb": "",
     "source": ""
@@ -2925,8 +2869,8 @@
     "area": "Middle East/Global",
     "category": "Snack",
     "type": "Non-Vegetarian",
-    "ingredients": ["chicken", "pita bread", "yogurt", "garlic", "spices", "lettuce", "tomato", "oil"],
-    "instructions": "1. Marinate chicken with yogurt and spices. 2. Grill or pan-fry until cooked. 3. Slice and wrap in pita with lettuce and tomato. 4. Serve with sauce.",
+    "ingredients": ["chicken", "pita bread", "curd", "garlic", "spices", "lettuce", "tomato", "oil"],
+    "instructions": "1. Marinate chicken with curd and spices. 2. Grill or pan-fry until cooked. 3. Slice and wrap in pita with lettuce and tomato. 4. Serve with sauce.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chicken_Shawarma.jpg",
     "thumb": "",
     "source": ""
@@ -2974,7 +2918,7 @@
     "category": "Breakfast",
     "type": "Vegetarian",
     "ingredients": ["wheat flour", "fenugreek leaves", "spices", "oil", "salt", "water"],
-    "instructions": "1. Mix flour, methi leaves, spices, and water to form dough. 2. Roll into thin circles. 3. Cook on tawa with oil until golden. 4. Serve hot with yogurt.",
+    "instructions": "1. Mix flour, methi leaves, spices, and water to form dough. 2. Roll into thin circles. 3. Cook on tawa with oil until golden. 4. Serve hot with curd.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Methi_Thepla.jpg",
     "thumb": "",
     "source": ""
@@ -3021,8 +2965,8 @@
     "area": "China/India",
     "category": "Main",
     "type": "Vegetarian",
-    "ingredients": ["cabbage", "carrot", "capsicum", "soy sauce", "cornflour", "oil", "garlic", "chili sauce"],
-    "instructions": "1. Make small vegetable balls using cabbage, carrot, and cornflour. 2. Deep fry until golden. 3. Prepare sauce with soy sauce, garlic, and chili sauce. 4. Toss fried balls in sauce and serve.",
+    "ingredients": ["cabbage", "carrot", "capsicum", "soy sauce", "cornflour", "oil", "garlic", "chilli sauce"],
+    "instructions": "1. Make small vegetable balls using cabbage, carrot, and cornflour. 2. Deep fry until golden. 3. Prepare sauce with soy sauce, garlic, and chilli sauce. 4. Toss fried balls in sauce and serve.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Veg_Manchurian.jpg",
     "thumb": "",
     "source": ""
@@ -3045,8 +2989,8 @@
     "area": "India",
     "category": "Main",
     "type": "Non-Vegetarian",
-    "ingredients": ["prawns", "onion", "garlic", "chili powder", "turmeric", "oil", "salt"],
-    "instructions": "1. Clean prawns and marinate with spices. 2. Sauté onion and garlic. 3. Add prawns and fry until cooked. 4. Serve hot.",
+    "ingredients": ["prawn", "onion", "garlic", "chilli powder", "turmeric", "oil", "salt"],
+    "instructions": "1. Clean prawn and marinate with spices. 2. Sauté onion and garlic. 3. Add prawn and fry until cooked. 4. Serve hot.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Prawn_Fry.jpg",
     "thumb": "",
     "source": ""
@@ -3057,7 +3001,7 @@
     "area": "Global",
     "category": "Dessert",
     "type": "Vegetarian",
-    "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter", "vanilla extract"],
+    "ingredients": ["maida", "cocoa powder", "sugar", "eggs", "butter", "vanilla extract"],
     "instructions": "1. Preheat oven to 180°C. 2. Mix dry ingredients. 3. Add eggs and melted butter. 4. Pour into baking tray and bake for 25–30 minutes. Cool before serving.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brownie.jpg",
     "thumb": "",
@@ -3069,7 +3013,7 @@
     "area": "India",
     "category": "Snack",
     "type": "Vegetarian",
-    "ingredients": ["roti", "tomato sauce", "cheese", "capsicum", "onion", "spices"],
+    "ingredients": ["roti", "tomato sauce", "cheese", "capsicum", "onion", "spices","tomato"],
     "instructions": "1. Spread tomato sauce on roti. 2. Add vegetables and cheese. 3. Bake or cook on tawa until cheese melts. 4. Serve hot.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Roti_Pizza.jpg",
     "thumb": "",
