@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Fridge Friend</title>
+  <title>Penguin's Pantry Patrol</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Pacifico&display=swap');
@@ -83,11 +83,11 @@
   <main id="app" class="max-w-3xl mx-auto p-6 flex flex-col items-center min-h-screen justify-center space-y-8">
     <!-- PAGE 1 -->
     <section id="page-1" class="w-full max-w-xl text-center">
-      <h1 class="text-7xl font-extrabold mb-6 select-none">Fridge Friend</h1>
+      <h1 class="text-6xl font-semibold mb-4 select-none">Penguin's Pantry Patrol</h1>
       <div class="mx-auto mb-6 w-72 h-72">
         <img src="penguin-chef.png" alt="Penguin chef" class="penguin-chef w-full h-full"/>
       </div>
-      <p class="text-2xl font-semibold mb-8 select-none">Your kitchen companion!</p>
+      <p class="text-2xl mb-8 select-none">Your cheerful cooking partner, ready to share recipes anytime you are!🤝🍴</p>
       <button class="gradient-btn text-lg px-10 py-4" id="btn-get-started">Get Started →</button>
     </section>
 
@@ -122,7 +122,7 @@
       <h2 class="text-4xl font-bold mb-6 select-none">Suggested Recipes</h2>
       <div id="thinking-loader" class="hidden mb-6">
         <img src="penguin-thinking.gif" alt="Thinking..." class="mx-auto w-32 h-32"/>
-        <p class="mt-2 text-lg font-semibold">Penguin is thinking...</p>
+        <p class="mt-2 text-lg font-semibold">📖 Finding the perfect recipe page…</p>
       </div>
       <div id="recipes-container" class="overflow-auto max-h-[48rem] px-2"></div>
       <div class="flex justify-center gap-6 mt-8">
@@ -167,6 +167,26 @@
       let ingredients = [];
       let selectedRecipe = null;
 
+      // 🔊 Add sounds
+      const clickSound = new Audio("click.mp3"); // small click sound
+      const page5Sound = new Audio("page5.mp3"); // background sound for page 5
+      page5Sound.loop = true;
+
+      function playClick() {
+        clickSound.currentTime = 0;
+        clickSound.play().catch(() => {});
+      }
+
+      function playPage5Sound() {
+        page5Sound.currentTime = 0;
+        page5Sound.play().catch(() => {});
+      }
+
+      function stopPage5Sound() {
+        page5Sound.pause();
+        page5Sound.currentTime = 0;
+      }
+
       const btnGetStarted = document.getElementById('btn-get-started');
       const btnPage2Home = document.getElementById('btn-page2-home');
       const btnPage2Next = document.getElementById('btn-page2-next');
@@ -199,9 +219,14 @@
         pages[num].classList.remove('hidden');
         if (num === 3) renderFreshness();
         if (num === 4) fetchAndRenderRecipes();
+        if (num === 5) playPage5Sound(); else stopPage5Sound();
       }
 
       // navigation
+      [btnGetStarted, btnPage2Home, btnPage2Next, btnPage3Back, btnPage3Next, btnPage4Back, btnPage4Home, btnRecipeBack, btnRecipeTryAnother, btnCopyInstructions, btnAddIngredient].forEach(btn => {
+        if (btn) btn.addEventListener("click", playClick);
+      });
+
       btnGetStarted.onclick = () => showPage(2);
       btnPage2Home.onclick = () => {
         ingredients = [];
@@ -340,8 +365,11 @@
                   <h3 class="text-lg font-semibold mb-1">${meal.title}</h3>
                 </div>
               `;
-              card.onclick = () => loadRecipeDetails(meal);
-              card.onkeypress = e => { if (e.key === 'Enter') loadRecipeDetails(meal); };
+              card.onclick = () => {
+                playClick();
+                loadRecipeDetails(meal);
+              };
+              card.onkeypress = e => { if (e.key === 'Enter') { playClick(); loadRecipeDetails(meal); } };
               recipesContainer.appendChild(card);
             });
           } catch (err) {
