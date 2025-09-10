@@ -14,13 +14,10 @@
       margin: 0;
       color: #0f172a;
     }
-    h1 {
-      font-family: 'Pacifico', cursive;
-    }
+    h1 { font-family: 'Pacifico', cursive; }
     button.gradient-btn {
       background: linear-gradient(90deg, #3b82f6, #6366f1);
-      color: white;
-      font-weight: 600;
+      color: white; font-weight: 600;
       border-radius: 9999px;
       padding: 0.75rem 1.75rem;
       transition: background 0.3s ease;
@@ -28,87 +25,62 @@
     button.gradient-btn:hover {
       background: linear-gradient(90deg, #2563eb, #4f46e5);
     }
-    .penguin-chef {
-      width: 150px;
-      height: 150px;
-      filter: drop-shadow(2px 4px 2px rgb(0 0 0 / 0.1));
-      user-select: none;
-    }
+    .penguin-chef { width: 300px; height: 300px; }
     .recipe-card {
       background-color: white;
       border-radius: 1rem;
       padding: 1rem 1.25rem;
       margin-bottom: 1rem;
       box-shadow: 0 2px 15px rgb(0 0 0 / 0.1);
-      display: flex;
-      align-items: center;
-      gap: 1rem;
+      display: flex; align-items: center; gap: 1rem;
       cursor: pointer;
       transition: box-shadow 0.3s ease;
     }
-    .recipe-card:hover {
-      box-shadow: 0 3px 25px rgb(0 0 0 / 0.15);
-    }
-    .recipe-img {
-      width: 80px;
-      height: 80px;
-      border-radius: 0.5rem;
-      object-fit: cover;
-      flex-shrink: 0;
-    }
+    .recipe-card:hover { box-shadow: 0 3px 25px rgb(0 0 0 / 0.15); }
+    .recipe-img { width: 80px; height: 80px; border-radius: 0.5rem; object-fit: cover; }
     textarea[readonly] {
-      background: #f3f4f6;
-      border-radius: 0.5rem;
-      padding: 1rem;
-      width: 100%;
-      resize: none;
-      font-family: inherit;
-      font-size: 1rem;
-      color: #1e293b;
+      background: #f3f4f6; border-radius: 0.5rem;
+      padding: 1rem; width: 100%; resize: none;
+      font-family: inherit; font-size: 1rem; color: #1e293b;
     }
-    input[type="date"], input[type="text"] {
-      border-radius: 0.5rem;
-      border: 1px solid #cbd5e1;
-      padding: 0.5rem 0.75rem;
-      font-family: inherit;
-      font-size: 1rem;
-      outline-offset: 2px;
-      outline-color: #3b82f6;
-    }
-    input[type="date"] { width: 180px; }
-    input[type="text"] { width: 100%; max-width: 250px; }
   </style>
 </head>
 <body>
   <main id="app" class="max-w-3xl mx-auto p-6 flex flex-col items-center min-h-screen justify-center space-y-8">
+
     <!-- PAGE 1 -->
     <section id="page-1" class="w-full max-w-xl text-center">
-      <h1 class="text-6xl font-semibold mb-4 select-none">Penguin's Pantry Patrol</h1>
-      <div class="mx-auto mb-6 w-72 h-72">
-        <img src="penguin-chef.png" alt="Penguin chef" class="penguin-chef w-full h-full"/>
-      </div>
-      <p class="text-2xl mb-8 select-none">Your cheerful cooking partner, ready to share recipes anytime you are!🤝🍴</p>
+      <h1 class="text-6xl mb-4">Penguin's Pantry Patrol</h1>
+      <img src="penguin-chef.png" class="penguin-chef mx-auto mb-6"/>
+      <p class="text-2xl mb-8">Your cheerful cooking partner, ready to share recipes anytime you are! 🤝🍴</p>
       <button class="gradient-btn text-lg px-10 py-4" id="btn-get-started">Get Started →</button>
     </section>
 
     <!-- PAGE 2 -->
+    
     <section id="page-2" class="hidden w-full max-w-xl text-center">
-      <h2 class="text-4xl font-bold mb-6 select-none">Ingredients</h2>
-      <div class="mt-6 flex flex-col items-center space-y-4">
-        <input id="single-ingredient" type="text" placeholder="Type ingredient (e.g., Milk)" />
-        <input id="date-bought" type="date" />
-        <button id="btn-add-ingredient" class="gradient-btn w-44">Add Ingredient</button>
-      </div>
-      <ul id="live-ingredient-list" class="mt-6 bg-white rounded-lg shadow-md p-4 max-h-64 overflow-auto text-left space-y-2"></ul>
-      <div class="mt-10 flex justify-center gap-6">
-        <button id="btn-page2-home" class="gradient-btn px-8">Home</button>
-        <button id="btn-page2-next" class="gradient-btn px-8">Next →</button>
-      </div>
-    </section>
+  <h2 class="text-4xl font-bold mb-6">Ingredients</h2>
+  <div class="flex flex-col items-center space-y-4">
+    <input id="single-ingredient" type="text" placeholder="Type ingredient (e.g., Milk)" />
+    
+    <!-- Add a label for the date input -->
+    <label for="date-bought" class="mb-1 font-medium">Date of Purchase:</label>
+    <input id="date-bought" type="date" title="Date of Purchase" />
+
+    <button id="btn-add-ingredient" class="gradient-btn w-44">Add Ingredient</button>
+  </div>
+  <ul id="live-ingredient-list" class="mt-6 bg-white rounded-lg shadow-md p-4 max-h-64 overflow-auto text-left space-y-2"></ul>
+  <div class="mt-10 flex justify-center gap-6">
+    <button id="btn-page2-home" class="gradient-btn px-8">Home</button>
+    <button id="btn-page2-next" class="gradient-btn px-8">Next →</button>
+  </div>
+</section>
+
 
     <!-- PAGE 3 -->
     <section id="page-3" class="hidden w-full max-w-xl text-center">
-      <h2 class="text-4xl font-bold mb-6 select-none">Your Ingredients & Freshness</h2>
+      <h2 class="text-4xl font-bold mb-6">Your Ingredients & Freshness</h2>
+      <button id="toggle-fresh" class="gradient-btn mb-4">Show Only Fresh</button>
       <ul id="ingredients-list" class="mb-6 bg-white rounded-lg shadow-md p-6 max-h-96 overflow-auto text-left space-y-3"></ul>
       <div class="mb-4 text-6xl" id="penguin-mood">🐧</div>
       <div class="flex justify-center gap-6">
@@ -119,10 +91,11 @@
 
     <!-- PAGE 4 -->
     <section id="page-4" class="hidden w-full max-w-xl text-center">
-      <h2 class="text-4xl font-bold mb-6 select-none">Suggested Recipes</h2>
+      <h2 class="text-4xl font-bold mb-4">Suggested Recipes</h2>
+      <button id="toggle-recipe-fresh" class="gradient-btn mb-4">Show Only Fresh/Moderate Recipes</button>
       <div id="thinking-loader" class="hidden mb-6">
-        <img src="penguin-thinking.gif" alt="Thinking..." class="mx-auto w-32 h-32"/>
-        <p class="mt-2 text-lg font-semibold">📖 Finding the perfect recipe page…</p>
+        <img src="penguin-thinking.gif" class="mx-auto w-32 h-32"/>
+        <p class="mt-2 text-lg font-semibold">📖 Finding the perfect recipe…</p>
       </div>
       <div id="recipes-container" class="overflow-auto max-h-[48rem] px-2"></div>
       <div class="flex justify-center gap-6 mt-8">
@@ -136,17 +109,13 @@
       <h2 id="recipe-title" class="text-3xl font-bold mb-4"></h2>
       <img id="recipe-image" class="mx-auto rounded-xl mb-4 w-96 h-80 object-cover" />
       <div id="penguin-reaction" class="text-6xl mb-6">🐧</div>
-      
       <h3 class="font-semibold text-xl mb-2">Instructions:</h3>
       <textarea id="instructions" readonly rows="8" class="mb-4"></textarea>
       <button id="btn-copy-instructions" class="gradient-btn w-52 mb-6">📋 Copy Instructions</button>
-      
       <h3 class="font-semibold text-xl mb-2">Matched Ingredients:</h3>
       <ul id="matched-ingredients" class="mb-6 list-disc list-inside text-left"></ul>
-      
       <h3 class="font-semibold text-xl mb-2">Missing Ingredients:</h3>
       <ul id="missing-ingredients" class="mb-6 list-disc list-inside text-left"></ul>
-      
       <div class="flex justify-center gap-6 mt-8">
         <button id="btn-recipe-back" class="gradient-btn px-8">← Back to Recipes</button>
         <button id="btn-recipe-try-another" class="gradient-btn px-8">🔄 Try Another Recipe</button>
@@ -156,263 +125,82 @@
 
   <script>
     (() => {
-      const pages = {
-        1: document.getElementById('page-1'),
-        2: document.getElementById('page-2'),
-        3: document.getElementById('page-3'),
-        4: document.getElementById('page-4'),
-        5: document.getElementById('page-5'),
-      };
+      const pages = {1:page1= document.getElementById('page-1'),2:page2=document.getElementById('page-2'),3:page3=document.getElementById('page-3'),4:page4=document.getElementById('page-4'),5:page5=document.getElementById('page-5')};
+      let ingredients=[], selectedRecipe=null, showFreshOnly=false, showFreshRecipesOnly=false;
 
-      let ingredients = [];
-      let selectedRecipe = null;
+      const btnGetStarted=document.getElementById('btn-get-started');
+      const btnPage2Home=document.getElementById('btn-page2-home'), btnPage2Next=document.getElementById('btn-page2-next');
+      const btnPage3Back=document.getElementById('btn-page3-back'), btnPage3Next=document.getElementById('btn-page3-next');
+      const btnPage4Back=document.getElementById('btn-page4-back'), btnPage4Home=document.getElementById('btn-page4-home');
+      const btnRecipeBack=document.getElementById('btn-recipe-back'), btnRecipeTryAnother=document.getElementById('btn-recipe-try-another');
+      const btnAddIngredient=document.getElementById('btn-add-ingredient');
+      const btnToggleFresh=document.getElementById('toggle-fresh');
+      const btnToggleRecipeFresh=document.getElementById('toggle-recipe-fresh');
 
-      // 🔊 Add sounds
-      const clickSound = new Audio("click.mp3"); // small click sound
-      const page5Sound = new Audio("page5.mp3"); // background sound for page 5
-      page5Sound.loop = true;
+      const singleIngredientInput=document.getElementById('single-ingredient'), dateBoughtInput=document.getElementById('date-bought');
+      const liveIngredientList=document.getElementById('live-ingredient-list'), ingredientsList=document.getElementById('ingredients-list');
+      const penguinMood=document.getElementById('penguin-mood');
+      const recipesContainer=document.getElementById('recipes-container'), thinkingLoader=document.getElementById('thinking-loader');
+      const recipeTitle=document.getElementById('recipe-title'), recipeImage=document.getElementById('recipe-image');
+      const instructionsArea=document.getElementById('instructions'), missingIngredientsList=document.getElementById('missing-ingredients'), matchedIngredientsList=document.getElementById('matched-ingredients');
+      const penguinReaction=document.getElementById('penguin-reaction');
 
-      function playClick() {
-        clickSound.currentTime = 0;
-        clickSound.play().catch(() => {});
-      }
+      function showPage(n){Object.values(pages).forEach(p=>p.classList.add('hidden'));pages[n].classList.remove('hidden');if(n===3)renderFreshness();if(n===4)fetchAndRenderRecipes();}
 
-      function playPage5Sound() {
-        page5Sound.currentTime = 0;
-        page5Sound.play().catch(() => {});
-      }
+      btnGetStarted.onclick=()=>showPage(2);
+      btnPage2Home.onclick=()=>{ingredients=[];liveIngredientList.innerHTML='';ingredientsList.innerHTML='';penguinMood.textContent='🐧';showPage(1);};
+      btnPage2Next.onclick=()=>showPage(3);
+      btnPage3Back.onclick=()=>showPage(2);
+      btnPage3Next.onclick=()=>showPage(4);
+      btnPage4Back.onclick=()=>showPage(3);
+      btnPage4Home.onclick=()=>{ingredients=[];liveIngredientList.innerHTML='';ingredientsList.innerHTML='';penguinMood.textContent='🐧';showPage(1);};
+      btnRecipeBack.onclick=()=>showPage(4);
+      btnRecipeTryAnother.onclick=()=>showPage(4);
 
-      function stopPage5Sound() {
-        page5Sound.pause();
-        page5Sound.currentTime = 0;
-      }
+      btnAddIngredient.onclick=()=>{let n=singleIngredientInput.value.trim().toLowerCase();let d=dateBoughtInput.value;if(!n)return;if(!ingredients.some(i=>i.name===n))ingredients.push({name:n,dateBought:d?new Date(d):null});singleIngredientInput.value='';dateBoughtInput.value='';renderLiveList();};
+      function renderLiveList(){liveIngredientList.innerHTML='';if(ingredients.length===0){liveIngredientList.innerHTML='<li>No ingredients yet.</li>';return;}ingredients.forEach(i=>{let li=document.createElement('li');li.textContent=i.name;liveIngredientList.appendChild(li);});}
+      
+      function freshnessStatus(date){if(!date)return'unknown';let d=(new Date()-date)/(1000*60*60*24);if(d<=3)return'fresh';if(d<=7)return'moderate';return'expired';}
+      function freshnessEmoji(s){return{s:'⚪ Unknown',fresh:'🟢 Fresh',moderate:'🟡 Moderate',expired:'🔴 Expired'}[s]||'⚪';}
+      function renderFreshness(){ingredientsList.innerHTML='';let visible=showFreshOnly?ingredients.filter(i=>freshnessStatus(i.dateBought)==='fresh'):ingredients;let counts={fresh:0,moderate:0,expired:0};visible.forEach(({name,dateBought})=>{let s=freshnessStatus(dateBought);if(s!=='unknown')counts[s]++;let li=document.createElement('li');li.textContent=`${name} – ${freshnessEmoji(s)}`;ingredientsList.appendChild(li);});let mood='🐧';if(counts.expired>0)mood='😟';else if(counts.moderate>0)mood='😐';else if(counts.fresh>0)mood='😀';penguinMood.textContent=mood;btnToggleFresh.textContent=showFreshOnly?'Show All Ingredients':'Show Only Fresh';}
+      btnToggleFresh.onclick=()=>{showFreshOnly=!showFreshOnly;renderFreshness();};
 
-      const btnGetStarted = document.getElementById('btn-get-started');
-      const btnPage2Home = document.getElementById('btn-page2-home');
-      const btnPage2Next = document.getElementById('btn-page2-next');
-      const btnPage3Back = document.getElementById('btn-page3-back');
-      const btnPage3Next = document.getElementById('btn-page3-next');
-      const btnPage4Back = document.getElementById('btn-page4-back');
-      const btnPage4Home = document.getElementById('btn-page4-home');
-      const btnRecipeBack = document.getElementById('btn-recipe-back');
-      const btnRecipeTryAnother = document.getElementById('btn-recipe-try-another');
-      const btnCopyInstructions = document.getElementById('btn-copy-instructions');
-
-      const singleIngredientInput = document.getElementById('single-ingredient');
-      const dateBoughtInput = document.getElementById('date-bought');
-      const btnAddIngredient = document.getElementById('btn-add-ingredient');
-      const liveIngredientList = document.getElementById('live-ingredient-list');
-
-      const ingredientsList = document.getElementById('ingredients-list');
-      const penguinMood = document.getElementById('penguin-mood');
-      const recipesContainer = document.getElementById('recipes-container');
-      const thinkingLoader = document.getElementById('thinking-loader');
-      const recipeTitle = document.getElementById('recipe-title');
-      const recipeImage = document.getElementById('recipe-image');
-      const instructionsArea = document.getElementById('instructions');
-      const missingIngredientsList = document.getElementById('missing-ingredients');
-      const matchedIngredientsList = document.getElementById('matched-ingredients');
-      const penguinReaction = document.getElementById('penguin-reaction');
-
-      function showPage(num) {
-        Object.keys(pages).forEach(k => pages[k].classList.add('hidden'));
-        pages[num].classList.remove('hidden');
-        if (num === 3) renderFreshness();
-        if (num === 4) fetchAndRenderRecipes();
-        if (num === 5) playPage5Sound(); else stopPage5Sound();
-      }
-
-      // navigation
-      [btnGetStarted, btnPage2Home, btnPage2Next, btnPage3Back, btnPage3Next, btnPage4Back, btnPage4Home, btnRecipeBack, btnRecipeTryAnother, btnCopyInstructions, btnAddIngredient].forEach(btn => {
-        if (btn) btn.addEventListener("click", playClick);
-      });
-
-      btnGetStarted.onclick = () => showPage(2);
-      btnPage2Home.onclick = () => {
-        ingredients = [];
-        liveIngredientList.innerHTML = '';
-        ingredientsList.innerHTML = ''; 
-        penguinMood.textContent = '🐧';
-        showPage(1);
-      };
-      btnPage2Next.onclick = () => showPage(3);
-      btnPage3Back.onclick = () => showPage(2);
-      btnPage3Next.onclick = () => showPage(4);
-      btnPage4Back.onclick = () => showPage(3);
-      btnPage4Home.onclick = () => {
-        ingredients = [];
-        liveIngredientList.innerHTML = '';
-        ingredientsList.innerHTML = ''; 
-        penguinMood.textContent = '🐧';
-        showPage(1);
-      };
-      btnRecipeBack.onclick = () => showPage(4);
-      btnRecipeTryAnother.onclick = () => showPage(4);
-
-      // copy instructions
-      btnCopyInstructions.onclick = () => {
-        navigator.clipboard.writeText(instructionsArea.value)
-          .then(() => alert("Instructions copied to clipboard!"))
-          .catch(() => alert("Failed to copy."));
-      };
-
-      // add ingredient
-      btnAddIngredient.onclick = () => {
-        let name = singleIngredientInput.value.trim().toLowerCase();
-        let date = dateBoughtInput.value;
-        if (!name) return;
-        if (!ingredients.some(i => i.name === name)) {
-          ingredients.push({ name, dateBought: date ? new Date(date) : null });
-        }
-        singleIngredientInput.value = '';
-        dateBoughtInput.value = '';
-        renderLiveList();
-      };
-
-      function renderLiveList() {
-        liveIngredientList.innerHTML = '';
-        if (ingredients.length === 0) {
-          liveIngredientList.innerHTML = `<li class="text-gray-600">No ingredients added yet.</li>`;
-          return;
-        }
-        ingredients.forEach(i => {
-          const li = document.createElement('li');
-          li.textContent = i.name;
-          liveIngredientList.appendChild(li);
-        });
-      }
-
-      // freshness
-      function freshnessStatus(dateBought) {
-        if (!dateBought) return 'unknown';
-        const MS_PER_DAY = 24 * 60 * 60 * 1000;
-        const today = new Date();
-        const diffDays = Math.floor((today - dateBought) / MS_PER_DAY);
-        if (diffDays <= 3) return 'fresh';
-        if (diffDays <= 7) return 'moderate';
-        return 'expired';
-      }
-      function freshnessEmoji(status) {
-        switch (status) {
-          case 'fresh': return '🟢 Fresh';
-          case 'moderate': return '🟡 Moderate';
-          case 'expired': return '🔴 Expired';
-          default: return '⚪ Unknown';
-        }
-      }
-      function renderFreshness() {
-        if (ingredients.length === 0) {
-          ingredientsList.innerHTML = `<li class="text-gray-600">Add some items!</li>`;
-          penguinMood.textContent = '🐧';
-          return;
-        }
-        ingredientsList.innerHTML = '';
-        let counts = { fresh: 0, moderate: 0, expired: 0 };
-        ingredients.forEach(({ name, dateBought }) => {
-          const status = freshnessStatus(dateBought);
-          if (status !== 'unknown') counts[status]++;
-          const li = document.createElement('li');
-          li.textContent = `${name} – ${freshnessEmoji(status)}`;
-          ingredientsList.appendChild(li);
-        });
-        let mood = '🐧';
-        if (counts.expired > 0) mood = '😟';
-        else if (counts.moderate > 0) mood = '😐';
-        else if (counts.fresh > 0) mood = '😀';
-        penguinMood.textContent = mood;
-      }
-
-      // recipes
-      async function fetchAndRenderRecipes() {
-        recipesContainer.innerHTML = '';
-        thinkingLoader.classList.remove('hidden');
-        setTimeout(async () => {
-          try {
-            const res = await fetch("recipes.json");
-            const data = await res.json();
-            let allMeals = data.recipes;
-            const userIngredients = ingredients.map(i => i.name.toLowerCase());
-
-            allMeals = allMeals.filter(meal =>
-              meal.ingredients.some(ing => userIngredients.includes(ing.toLowerCase()))
-            );
-
-            allMeals.sort((a, b) => {
-              const aFirst = a.ingredients[0]?.toLowerCase();
-              const bFirst = b.ingredients[0]?.toLowerCase();
-              const aFirstMatch = userIngredients.includes(aFirst);
-              const bFirstMatch = userIngredients.includes(bFirst);
-              if (aFirstMatch && !bFirstMatch) return -1;
-              if (!aFirstMatch && bFirstMatch) return 1;
-              const aMatches = a.ingredients.filter(ing => userIngredients.includes(ing.toLowerCase())).length;
-              const bMatches = b.ingredients.filter(ing => userIngredients.includes(ing.toLowerCase())).length;
-              return bMatches - aMatches;
-            });
-
-            thinkingLoader.classList.add('hidden');
-            if (allMeals.length === 0) {
-              recipesContainer.innerHTML = `<p class="text-lg font-semibold">No recipes found.</p>`;
-              return;
+      async function fetchAndRenderRecipes(){
+        recipesContainer.innerHTML='';thinkingLoader.classList.remove('hidden');
+        setTimeout(async()=>{
+          try{let res=await fetch("recipes.json");let data=await res.json();let allMeals=data.recipes;
+            let userIngredients=ingredients.map(i=>i.name.toLowerCase());
+            let freshModerateIngredients=ingredients.filter(i=>{
+              let s=freshnessStatus(i.dateBought);
+              return s==='fresh'||s==='moderate';
+            }).map(i=>i.name.toLowerCase());
+            
+            // filter base
+            let meals=allMeals.filter(m=>m.ingredients.some(ing=>userIngredients.includes(ing.toLowerCase())));
+            if(showFreshRecipesOnly){
+              meals=meals.filter(m=>m.ingredients.some(ing=>freshModerateIngredients.includes(ing.toLowerCase())));
             }
 
-            allMeals.forEach(meal => {
-              const card = document.createElement('div');
-              card.className = 'recipe-card';
-              card.tabIndex = 0;
-              card.innerHTML = `
-                <img src="${meal.thumb || 'penguin-chef.png'}" alt="${meal.title}" class="recipe-img"/>
-                <div>
-                  <h3 class="text-lg font-semibold mb-1">${meal.title}</h3>
-                </div>
-              `;
-              card.onclick = () => {
-                playClick();
-                loadRecipeDetails(meal);
-              };
-              card.onkeypress = e => { if (e.key === 'Enter') { playClick(); loadRecipeDetails(meal); } };
-              recipesContainer.appendChild(card);
+            meals.sort((a,b)=>{
+              let aMatches=a.ingredients.filter(ing=>userIngredients.includes(ing.toLowerCase())).length;
+              let bMatches=b.ingredients.filter(ing=>userIngredients.includes(ing.toLowerCase())).length;
+              return bMatches-aMatches;
             });
-          } catch (err) {
+
             thinkingLoader.classList.add('hidden');
-            recipesContainer.innerHTML = `<p class="text-red-600">Error loading recipes.json</p>`;
-          }
-        }, 2000);
+            if(meals.length===0){recipesContainer.innerHTML='<p>No recipes found.</p>';return;}
+            meals.forEach(m=>{
+              let c=document.createElement('div');c.className='recipe-card';
+              c.innerHTML=`<img src="${m.thumb||'penguin-chef.png'}" class="recipe-img"/><div><h3>${m.title}</h3></div>`;
+              c.onclick=()=>loadRecipeDetails(m);recipesContainer.appendChild(c);
+            });
+          }catch{thinkingLoader.classList.add('hidden');recipesContainer.innerHTML='<p>Error loading recipes.</p>';}
+        },1500);
       }
+      btnToggleRecipeFresh.onclick=()=>{showFreshRecipesOnly=!showFreshRecipesOnly;btnToggleRecipeFresh.textContent=showFreshRecipesOnly?'Show All Recipes':'Show Only Fresh/Moderate Recipes';fetchAndRenderRecipes();};
 
-      function loadRecipeDetails(meal) {
-        recipeTitle.textContent = meal.title;
-        recipeImage.src = meal.thumb || "penguin-cooking.gif";
-        instructionsArea.value = meal.instructions || 'No instructions available.';
-        missingIngredientsList.innerHTML = '';
-        matchedIngredientsList.innerHTML = '';
-        penguinReaction.textContent = '🐧';
-        showPage(5);
-        selectedRecipe = meal;
-
-        const recipeIngredients = meal.ingredients.map(i => i.toLowerCase());
-        const userIngredients = ingredients.map(i => i.name.toLowerCase());
-
-        const matched = recipeIngredients.filter(ri => userIngredients.includes(ri));
-        const missing = recipeIngredients.filter(ri => !userIngredients.includes(ri));
-
-        matched.forEach(m => {
-          const li = document.createElement('li');
-          li.textContent = m;
-          matchedIngredientsList.appendChild(li);
-        });
-
-        if (missing.length === 0) {
-          missingIngredientsList.innerHTML = `<li>None 🎉</li>`;
-          penguinReaction.textContent = '🎉';
-        } else {
-          missing.forEach(m => {
-            const li = document.createElement('li');
-            li.textContent = m;
-            missingIngredientsList.appendChild(li);
-          });
-          penguinReaction.textContent = '🤔';
-        }
-      }
+      function loadRecipeDetails(m){recipeTitle.textContent=m.title;recipeImage.src=m.thumb||'penguin-cooking.gif';instructionsArea.value=m.instructions||'';matchedIngredientsList.innerHTML='';missingIngredientsList.innerHTML='';let recipeIngredients=m.ingredients.map(i=>i.toLowerCase());let userIngredients=ingredients.map(i=>i.name.toLowerCase());recipeIngredients.forEach(ri=>{let li=document.createElement('li');if(userIngredients.includes(ri))li.textContent=ri,matchedIngredientsList.appendChild(li);else li.textContent=ri,missingIngredientsList.appendChild(li);});penguinReaction.textContent=missingIngredientsList.children.length===0?'🎉':'🤔';showPage(5);}
+      showPage(1);
     })();
   </script>
 </body>
